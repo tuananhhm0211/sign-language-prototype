@@ -6,8 +6,12 @@ import json
 from tqdm import tqdm
 from time import sleep
 import random
+import os
+from dotenv import load_dotenv
 
-openai.api_key = "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"
+load_dotenv()
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
 def load_saved_embedding(file_path):
@@ -151,8 +155,8 @@ def translate_language(query, language="french"):
 
 if __name__ == '__main__':
     # Define the path to the file containing the words
-    vocab_file_path = "/home/love_you/Documents/joyness/sign-language-prototype/assets/filter_sl_vocab.txt"
-    embedding_file_path = "/home/love_you/Documents/joyness/sign-language-prototype/assets/sl_after_embeddings.npy"
+    vocab_file_path = "./assets/filter_sl_vocab.txt"
+    embedding_file_path = "./assets/sl_after_embeddings.npy"
     query = "Hôm nay rất vui vì được gặp mọi người"
     query = query.lower()
     words = read_file(vocab_file_path)

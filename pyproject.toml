@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "sign-language-prototype"
+version = "0.1.0"
+description = "The goal of the project is to create a demo that is based on the ChatGPT and JASigning translate the Vietnamese spoken language into Vietnamese Sign Language"
+authors = ["LeCongThuong <thuongle276@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "sign_language_prototype"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+openai = "^0.27.8"
+tqdm = "^4.65.0"
+numpy = "1.22.4"
+underthesea = "^6.5.0"
+faiss-cpu = "^1.7.4"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
