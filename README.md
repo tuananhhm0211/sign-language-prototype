@@ -12,6 +12,6 @@
 * Run command `python query_embedding.py` to test app
 
 
-##3. Contributors
+## 3. Contributors
 * [Le Cong Thuong](thuonglc@vnu.edu.vn)
 * [Tuan Anh](tuananhhhm@gmail.com)
