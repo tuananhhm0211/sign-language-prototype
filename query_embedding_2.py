@@ -44,9 +44,11 @@ def get_embedding(text):
     }
 
     # Call the API to get the embeddings
+    list_vec = []
     response = openai.Embedding.create(**params)
-    embeddings = response["data"][0]["embedding"]
-    return embeddings
+    for data in response.data:
+        list_vec.append(data.embedding)
+    return list_vec
 
 
 def get_k_words(words, indices):
@@ -62,9 +64,10 @@ def get_candidate_words(query, words, embeddings, k=10):
 
     for query_word in tqdm(query_word_list):
         query_word.replace(" ", "_")
-        query_embedding = get_embedding(query_word)
-        sleep(20)
-        distances, indices = get_k_neighbours(embeddings, query_embedding, k)
+    query_embedding = get_embedding(query_word_list)
+    #sleep(20)
+    for i in range(len(query_word_list)):
+        distances, indices = get_k_neighbours(embeddings, query_embedding[i], k)
         k_words = get_k_words(words, indices)
         sub_vocab.extend(k_words)
     return sub_vocab
@@ -165,8 +168,8 @@ if __name__ == '__main__':
     vocab_file_path = "./assets/filter_sl_vocab.txt"
     embedding_file_path = "./assets/sl_after_embeddings.npy"
     #query = "Hôm nay rất vui vì được gặp mọi người"
-    #query = "Anh ta đam mê xe hơi"
-    query = "Hôm qua, tôi gặp lại người bạn thân ở công viên"
+    query = "Anh ta đam mê xe hơi"
+    #query = "Hôm qua, tôi gặp lại người bạn thân ở công viên"
     query = query.lower()
     words = read_file(vocab_file_path)
     embeddings = load_saved_embedding(embedding_file_path)
