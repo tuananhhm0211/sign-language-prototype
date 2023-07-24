@@ -93,7 +93,7 @@ def get_similar_sentences_using_set_of_words(candidate_words, query_sent):
 def sl_translate(word_vocab_str, query):
     # Step 1: send the conversation and available functions to GPT
     messages = [
-        {"role": "user", "content": f"Cho các từ sau:{word_vocab_str}, Sử dụng các từ có trong danh sách trên để tạo thành câu chỉ gồm các từ có trong danh sách trên mà gần tương đồng về ý nghĩa với câu sau: {query}"}]
+        {"role": "user", "content": f"Cho các từ sau:{word_vocab_str}, hãy tạo thành câu chỉ gồm các từ có trong danh sách trên mà tương đồng với câu sau: {query}" }]
     functions = [
         {
             "name": "translate_sentence_only_using_from_limited_words",
