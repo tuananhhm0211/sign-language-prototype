@@ -89,11 +89,12 @@ def get_similar_sentences_using_set_of_words(candidate_words, query_sent):
     sim_res = sl_translate(candidate_str, query_sent)
     return sim_res
 
-
 def sl_translate(word_vocab_str, query):
     # Step 1: send the conversation and available functions to GPT
     messages = [
-        {"role": "user", "content": f"Cho các từ sau:{word_vocab_str}, hãy tạo thành câu chỉ gồm các từ có trong danh sách trên mà tương đồng với câu sau: {query}" }]
+        {
+            "role": "system", "content": "Bạn cần tạo thành câu từ những từ đã cho trước và không thêm từ khác vào trong câu",
+            "role": "user", "content": f"Hãy tạo thành câu chỉ dùng các từ sau: {word_vocab_str} mà tương đồng nhiều nhất có thể với câu sau: {query}" }]
     functions = [
         {
             "name": "translate_sentence_only_using_from_limited_words",
@@ -115,6 +116,7 @@ def sl_translate(word_vocab_str, query):
         messages=messages,
         functions=functions,
         function_call="auto",  # auto is default, but we'll be explicit
+        temperature=0.2,
     )
     response_message = response["choices"][0]["message"]
 
@@ -167,9 +169,12 @@ if __name__ == '__main__':
     # Define the path to the file containing the words
     vocab_file_path = "./assets/filter_sl_vocab.txt"
     embedding_file_path = "./assets/sl_after_embeddings.npy"
-    #query = "Hôm nay rất vui vì được gặp mọi người"
+    query = "Hôm nay rất vui vì được gặp mọi người"
     query = "Anh ta đam mê xe hơi"
-    #query = "Hôm qua, tôi gặp lại người bạn thân ở công viên"
+    # query = "Hôm qua, tôi gặp lại người bạn thân ở công viên"
+    # query = "Tôi rất xin lỗi về sự cố vừa rồi"
+    # query = "Bạn đã có kế hoạch gì cho ngày hôm nay chưa"
+    query = "Bạn có thể giúp tôi một tay không"
     query = query.lower()
     words = read_file(vocab_file_path)
     embeddings = load_saved_embedding(embedding_file_path)
