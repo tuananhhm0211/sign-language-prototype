@@ -8,13 +8,16 @@ readme = "README.md"
 packages = [{include = "sign_language_prototype"}]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-openai = "^0.27.8"
+python = ">=3.8,<3.10"
 tqdm = "^4.65.0"
 numpy = "1.22.4"
-underthesea = "^6.5.0"
-faiss-cpu = "^1.7.4"
 python-dotenv = "^1.0.0"
+transformers = {extras = ["sentencepiece"], version = "^4.31.0"}
+accelerate = "^0.21.0"
+py-vncorenlp = "^0.1.4"
+fasttext = {git = "https://github.com/cfculhane/fastText"}
+huggingface-hub = "^0.16.4"
+scipy = "1.6.2"
 
 
 [build-system]

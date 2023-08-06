@@ -112,9 +112,9 @@ def replace_all(text):
 
 
 if __name__ == '__main__':
-    vncore_path = "/home/love_you/Documents/joyness/sign-language-prototype/assets/vncore"
-    vocab_path = "/home/love_you/Documents/joyness/sign-language-prototype/assets/qipedc_sl_viet_word_list_no_phrase_normalized.json"
-    vocab_embedding_path = "/home/love_you/Documents/joyness/sign-language-prototype/assets/word_embeddings.npy"
+    vncore_path = "/mnt/hdd/thuonglc/study/sign-language-prototype/assets/vncore"
+    vocab_path = "/mnt/hdd/thuonglc/study/sign-language-prototype/assets/qipedc_sl_viet_word_list_no_phrase_normalized.json"
+    vocab_embedding_path = "/mnt/hdd/thuonglc/study/sign-language-prototype/assets/word_embeddings.npy"
     vi_sentence = 'Nhiều tuyến đường vùng núi phía Bắc sạt lở vì mưa lũ'
     synonym_sent_ob = SynonymSent(vncore_path, vocab_path, vocab_embedding_path)
     synonym_sent = synonym_sent_ob.get_synonym_sent(vi_sentence, 0.5)
