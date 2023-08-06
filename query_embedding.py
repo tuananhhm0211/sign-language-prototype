@@ -157,7 +157,7 @@ if __name__ == '__main__':
     # Define the path to the file containing the words
     vocab_file_path = "./assets/filter_sl_vocab.txt"
     embedding_file_path = "./assets/sl_after_embeddings.npy"
-    query = "Hôm nay rất vui vì được gặp mọi người"
+    query = "Theo IMF, Đức có thể là quốc gia G7 duy nhất có mức tăng trưởng âm trong năm nay."
     query = query.lower()
     words = read_file(vocab_file_path)
     embeddings = load_saved_embedding(embedding_file_path)
