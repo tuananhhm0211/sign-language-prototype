@@ -3,7 +3,7 @@ from google.cloud import aiplatform
 
 
 class VertexAIModel:
-    def __init__(self, temperature: float = .2, project_id='test-ai-vision-356213'):
+    def __init__(self, project_id='test-ai-vision-356213', temperature: float = 0.2):
         aiplatform.init(project=project_id)
         self.model = TextGenerationModel.from_pretrained("text-bison@001")
         self.parameters = {

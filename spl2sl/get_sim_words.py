@@ -55,6 +55,7 @@ class SynonymSent:
                 if candidate[1] >= threshold:
                     synonym_sent_list.append([candidate[0], token_info['posTag']])
         syn_sent = ' '.join([i[0] for i in synonym_sent_list])
+        syn_sent = syn_sent.replace("_", " ")
         return syn_sent
 
 
