@@ -30,7 +30,7 @@ class Word2Sigml:
                 {xml_content_str}
                 </sigml>
                 """
-        pprint(xml_str)
+        # pprint(xml_str)
         return xml_str
 
     def convert_words_to_sigml(self, sent):
@@ -45,7 +45,7 @@ class Word2Sigml:
     
 if __name__ == '__main__':
     word2_sigml = Word2Sigml("/mnt/hdd/thuonglc/study/sign-language-prototype/assets/hamnosys2sigml")
-    sent = ['H', 'proof','phòng_y_tế', 'alarm']
+    sent = ['H', 'proof','phòng_y_tế', 'phòng_thư_viện']
     res = word2_sigml.convert_words_to_sigml(sent)
     with open('test.xml', 'w') as f:
         f.write(res)

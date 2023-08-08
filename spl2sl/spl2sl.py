@@ -1,7 +1,7 @@
-from shorten_sent import VertexAIModel
-from translate import GoogleTranslate
-from spl_sl_grammar_translate import GrammarTranslate
-from get_sim_words import SynonymSent
+from spl2sl.shorten_sent import VertexAIModel
+from spl2sl.translate import GoogleTranslate
+from spl2sl.spl_sl_grammar_translate import GrammarTranslate
+from spl2sl.get_sim_words import SynonymSent
 
 
 class Slp2Sl:
@@ -38,5 +38,5 @@ if __name__ == '__main__':
     slp2sl_obj = Slp2Sl(vncore_path, vocab_path, vocab_embedding_path)
     sl_sent = slp2sl_obj.spl2sl(sent)
     print(sl_sent)
-    print(slp2sl_obj.post_process(sl_sent))
+
 
