@@ -15,7 +15,7 @@ class SynonymSent:
         self.vocab_words = self._read_json(vocab_path)
         self.vocab_embeddings = np.load(vocab_embedding_path)
         self.finger_pos_list = ['Np', 'Ny', 'Ni', 'Np', 'NNP', 'Ny', 'M', 'E', 'Fw', 'FW', 'CH']
-        self.remove_pos_list = ['CH', 'I', 'L', 'T', 'X']
+        self.remove_pos_list = ['I', 'L', 'T', 'X']
 
     def _read_json(self, vocab_path):
         with open(vocab_path, 'r') as f:
