@@ -15,7 +15,7 @@ class Spl2Videos:
 
 if __name__ == '__main__':
     xml_path = "/mnt/hdd/thuonglc/study/sign-language-prototype/assets/hamnosys2sigml"
-    sent = "Cảng Trần Đề sẽ giúp giảm chi phí hàng hoá xuất, nhập khẩu, phát triển công nghiệp, tạo đột phá cho kinh tế Đồng bằng sông Cửu Long, theo ông Nguyễn Văn Thể."
+    sent = "Nhân dân rất quan tâm, muốn biết chủ trương, quan điểm của thành phố trong việc sáp nhập quận Hoàn Kiếm, bởi đây là quận trung tâm văn hóa, chính trị, kinh tế của Thủ đô, có bề dày truyền thống về văn hóa, lịch sử."
     vncore_path="/mnt/hdd/thuonglc/study/sign-language-prototype/assets/vncore"
     vocab_path="/mnt/hdd/thuonglc/study/sign-language-prototype/assets/qipedc_sl_viet_word_list_no_phrase_normalized.json"
     vocab_embedding_path="/mnt/hdd/thuonglc/study/sign-language-prototype/assets/word_embeddings.npy"

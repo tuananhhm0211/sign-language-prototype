@@ -7,7 +7,8 @@ from pprint import pprint
 class Word2Sigml:
     def __init__(self, xml_dir):
         self.xml_dir = xml_dir
-        self.words = [xml_path.stem for xml_path in list(Path(xml_dir).glob("*.xml"))]
+        self.words = [xml_path.stem for xml_path in list(Path(xml_dir).glob("*.xml")) if xml_path.stem != "_"]
+        self.words.append("_")
         # print(len(self.words))
 
     def _read_file(self, file_path):
@@ -39,7 +40,7 @@ class Word2Sigml:
             if word in self.words:
                 xml_name_list.append(word)
             else:
-                xml_name_list.append(self.words[0])
+                xml_name_list.append(self.words[-1])
         xml_str = self._combine_sigml_files(xml_name_list)  
         return xml_str
     

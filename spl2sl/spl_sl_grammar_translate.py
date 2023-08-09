@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 class GrammarTranslate:
     def __init__(self):
         self.tokenizer = AutoTokenizer.from_pretrained("VietAI/vit5-base")
-        self.model = AutoModelForSeq2SeqLM.from_pretrained("Thuong/vsl_baseline")
+        self.model = AutoModelForSeq2SeqLM.from_pretrained("Thuong/vsl_baseline_2")
         self.model.to('cuda')
 
     def translate_sent(self, sentence, max_length=128):
