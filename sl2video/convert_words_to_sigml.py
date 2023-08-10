@@ -43,7 +43,8 @@ class Word2Sigml:
                 xml_name_list.append(self.words[-1])
         xml_str = self._combine_sigml_files(xml_name_list)  
         return xml_str
-    
+
+
 if __name__ == '__main__':
     word2_sigml = Word2Sigml("/mnt/hdd/thuonglc/study/sign-language-prototype/assets/hamnosys2sigml")
     sent = ['H', 'proof','phòng_y_tế', 'phòng_thư_viện']
