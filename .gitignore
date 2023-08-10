@@ -161,3 +161,4 @@ cython_debug/
 #.idea/
 /assets/vncore/models/
 /assets/vncore/VnCoreNLP-1.2.jar
+/assets/hamnosys2sigml/
