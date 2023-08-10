@@ -1,0 +1,4648 @@
+{
+    "train": [
+        {
+            "id": 0,
+            "label": "bao giờ đỗ trạng thì cưới",
+            "text": "bao giờ đỗ trạng thì cưới"
+        },
+        {
+            "id": 1,
+            "label": "ăn có nhai nói có nghĩ là người khôn",
+            "text": "ăn có nhai nói có nghĩ thì mới là người khôn"
+        },
+        {
+            "id": 2,
+            "label": "lá vườn nhà tôi rụng nhiều",
+            "text": "vườn nhà tôi lá rụng nhiều"
+        },
+        {
+            "id": 3,
+            "label": "lệnh có đi",
+            "text": "có lệnh là đi"
+        },
+        {
+            "id": 4,
+            "label": "Nam trúng cử rồi",
+            "text": "Nam trúng cử rồi"
+        },
+        {
+            "id": 5,
+            "label": "bướm nhiều có con đẹp quá",
+            "text": "nhiều bướm quá , có con đẹp quá kìa"
+        },
+        {
+            "id": 6,
+            "label": "Cún đâu",
+            "text": "còn con Cún đâu rồi"
+        },
+        {
+            "id": 7,
+            "label": "cô ta đẹp đẹp vì lụa",
+            "text": "cô ta đẹp là đẹp vì lụa"
+        },
+        {
+            "id": 8,
+            "label": "bảo sao nghe vậy",
+            "text": "bảo sao nghe vậy"
+        },
+        {
+            "id": 9,
+            "label": "vác sáng vác tối chán",
+            "text": "sáng vác tối vác thì ai mà chả chán"
+        },
+        {
+            "id": 10,
+            "label": "ông diêm có",
+            "text": "ông có diêm không"
+        },
+        {
+            "id": 11,
+            "label": "con cãi nhau không được",
+            "text": "con không được cãi nhau nữa"
+        },
+        {
+            "id": 12,
+            "label": "Hà Nội thủ đô nước ta",
+            "text": "Hà Nội thủ đô nước ta"
+        },
+        {
+            "id": 13,
+            "label": "sân ra đừng ngoài ấy rét",
+            "text": "đừng ra sân , ngoài ấy rét"
+        },
+        {
+            "id": 14,
+            "label": "tuần hai liên tục thương lái hục lao động thuê từ tỉnh phía Bắc vào Tịnh Hà Sơn Tịnh có hàng trăm hộc dân chuối lùn trồng ven sông Trà KHúc đại lý mở chuối lùn còn xanh thu mua xuất Trung Quốc",
+            "text": "liên tục trong hai tuần qua , nhiều thương lái thuê hàng chục lao động từ tỉnh phía Bắc vào xã Tịnh Hà , huyện Sơn Tịnh , nơi có hàng trăm hộc dân trồng chuối lùn ven sông Trà KHúc , để mở đại lý thu mua chuối lùn còn xanh xuất sang Trung Quốc"
+        },
+        {
+            "id": 15,
+            "label": "xin bạn trật tự",
+            "text": "xin bạn giữ trật tự"
+        },
+        {
+            "id": 16,
+            "label": "người giờ 6 có mặt",
+            "text": "người phải có mặt lúc 6 giờ"
+        },
+        {
+            "id": 17,
+            "label": "thuốc an thần",
+            "text": "cái đó chỉ là liều thuốc an thần"
+        },
+        {
+            "id": 18,
+            "label": "nó làm có đâu mà làm",
+            "text": "nó có làm đâu mà làm"
+        },
+        {
+            "id": 19,
+            "label": "tôi đi không muốn vả lại muộn rồi",
+            "text": "tôi không muốn đi , vả lại đã muộn rồi"
+        },
+        {
+            "id": 20,
+            "label": "xanh như lá bạc như vôi đừng",
+            "text": "đừng xanh như lá , bạc như vôi"
+        },
+        {
+            "id": 21,
+            "label": "thật tiếc",
+            "text": "đáng tiếc"
+        },
+        {
+            "id": 22,
+            "label": "Nam làm việc chăm chỉ",
+            "text": "anh Nam làm việc chăm chỉ"
+        },
+        {
+            "id": 23,
+            "label": "máy bay cât cánh giờ 6",
+            "text": "máy bay cât cánh là vào lúc 6 giờ"
+        },
+        {
+            "id": 24,
+            "label": "tôi bạn gửi lời chào thân ái",
+            "text": "tôi xin gửi bạn lời chào thân ái"
+        },
+        {
+            "id": 25,
+            "label": "chẳng thà ông ấy nói toẹt ra",
+            "text": "chẳng thà ông ấy cứ nói toẹt ra"
+        },
+        {
+            "id": 26,
+            "label": "cán bộ hội viên lí luận phải học lí luận phải đem thực tế áp dụng",
+            "text": ", mỗi cán bộ , hội viên phải học lí luận , phải đem lí luận áp dụng vào thực tế"
+        },
+        {
+            "id": 27,
+            "label": "muỗi có",
+            "text": "có muỗi"
+        },
+        {
+            "id": 28,
+            "label": "vệ đường cha con làm ruộng hai cha cày đánh con đất đập",
+            "text": "bên vệ đường có hai cha con làm ruộng : cha đánh cày , con đập đất"
+        },
+        {
+            "id": 29,
+            "label": "ăn sống cần chứ sống ăn không phải",
+            "text": "cần ăn để mà sống chứ không phải sống để mà ăn"
+        },
+        {
+            "id": 30,
+            "label": "Nam trúng cử chắc chắn",
+            "text": "Nam sẽ trúng cử một cách chắc chắn"
+        },
+        {
+            "id": 31,
+            "label": "tôi làm được",
+            "text": "tôi thì làm được"
+        },
+        {
+            "id": 32,
+            "label": "em ấy nướng không kịp",
+            "text": "mình em nấy nướng thì không kịp"
+        },
+        {
+            "id": 33,
+            "label": "Lan mưa",
+            "text": "Lan , mưa"
+        },
+        {
+            "id": 34,
+            "label": "trời nổi can qua",
+            "text": "bao giờ trời nổi can qua"
+        },
+        {
+            "id": 35,
+            "label": "sách hay thì ai đọc thích",
+            "text": "sách mà hay thì ai cũng thích đọc"
+        },
+        {
+            "id": 36,
+            "label": "người khó tính ưa chẳng",
+            "text": "người mà khó tính thì chẳng ai ưa"
+        },
+        {
+            "id": 37,
+            "label": "Nam trúng cử là điều chắc chắn",
+            "text": "Nam sẽ trúng cử đó là một điều chắc chắn"
+        },
+        {
+            "id": 38,
+            "label": "mặt nứt mới mà vợ lấy đòi",
+            "text": "mới nứt mặt ra mà đã đòi lấy vợ"
+        },
+        {
+            "id": 39,
+            "label": "trên thuận dưới hoà",
+            "text": "trên thuận dưới hoà là hay nhất"
+        },
+        {
+            "id": 40,
+            "label": "trên lập trường tư tưởng đại chúng nhân dân mà giải quyết thì ta hình thức vận dụng ta tự do lựa chọn đề tài",
+            "text": "miễn là đứng trên lập trường tư tưởng đại chúng nhân dân mà giải quyết thì ta vẫn có thể vận dụng hình thức , ta vẫn hết sức tự do trong sự lựa chọn đề tài"
+        },
+        {
+            "id": 41,
+            "label": "bây giờ muộn chưa",
+            "text": "bây giờ chưa muộn đâu"
+        },
+        {
+            "id": 42,
+            "label": "ai không người lảng dần",
+            "text": "không ai nói gì , người lảng dần ra"
+        },
+        {
+            "id": 43,
+            "label": "thời đại biến đổi văn học biến đổi",
+            "text": "thời đại biến đổi thì văn học cũng biến đổi"
+        },
+        {
+            "id": 44,
+            "label": "tôi ở đây làm việc",
+            "text": "ở đây tôi cũng làm việc"
+        },
+        {
+            "id": 45,
+            "label": "họ bảo đã",
+            "text": "họ đã bảo mà"
+        },
+        {
+            "id": 46,
+            "label": "rẻ thì có rẻ nhưng đẹp không",
+            "text": "rẻ thì có rẻ , nhưng không đẹp"
+        },
+        {
+            "id": 47,
+            "label": "anh này say khướt rồi",
+            "text": "anh này lại say khướt rồi"
+        },
+        {
+            "id": 48,
+            "label": "thầy lắm ma rầy",
+            "text": "lắm thầy rầy ma"
+        },
+        {
+            "id": 49,
+            "label": "ngoài sân chó chạy",
+            "text": "con chó chạy ngoài sân"
+        },
+        {
+            "id": 50,
+            "label": "vâng tôi biết",
+            "text": ", tôi biết"
+        },
+        {
+            "id": 51,
+            "label": "có thể Nam trúng cử sẽ",
+            "text": "có thể Nam sẽ trúng cử"
+        },
+        {
+            "id": 52,
+            "label": "hai bát cơm nồi chỉ còn",
+            "text": "chỉ còn hai bát cơm trong nồi"
+        },
+        {
+            "id": 53,
+            "label": "chàng xấu khổ ai",
+            "text": "xấu chàng khổ ai"
+        },
+        {
+            "id": 54,
+            "label": "nước quanh chân lúa reo lúa rung lòng người rung",
+            "text": "nước reo quanh chân lúa , lúa rung lên , lòng người cũng rung lên"
+        },
+        {
+            "id": 55,
+            "label": "ai làm nấy chịu",
+            "text": "ai làm nấy chịu"
+        },
+        {
+            "id": 56,
+            "label": "phê bình không phải mạt sát",
+            "text": "phê bình không phải là mạt sát"
+        },
+        {
+            "id": 57,
+            "label": "khi hoa nở xem khi trăng lên chờ",
+            "text": "khi xem hoa nở , khi chờ trăng lên"
+        },
+        {
+            "id": 58,
+            "label": "chương 1 chương cuốn sách dài nhất",
+            "text": "chương 1 là chương dài nhất của cuốn sách"
+        },
+        {
+            "id": 59,
+            "label": "mưa sắp",
+            "text": "sắp mưa rồi đấy"
+        },
+        {
+            "id": 60,
+            "label": "khi vui vỗ tay",
+            "text": "khi vui thì vỗ tay vào"
+        },
+        {
+            "id": 61,
+            "label": "đấm đá tiếng bình bịch",
+            "text": "tiếng đấm , tiếng đá nhau bình bịch"
+        },
+        {
+            "id": 62,
+            "label": "tôi hơi động nó nó lè lưỡi",
+            "text": "hễ tôi hơi động vào mình nó , nó lại lè lưỡi ra y như thường ngày"
+        },
+        {
+            "id": 63,
+            "label": "mây trôi hãy ngừng",
+            "text": "mây , hãy ngừng trôi"
+        },
+        {
+            "id": 64,
+            "label": "tôi dính không vào",
+            "text": "tôi không dính vào việc này"
+        },
+        {
+            "id": 65,
+            "label": "hoa bưởi thơm đêm khuya",
+            "text": "hoa bưởi thơm rồi : đêm đã khuya"
+        },
+        {
+            "id": 66,
+            "label": "nó bài năm ba đúng",
+            "text": "nó giải được năm bài , thì ba bài đúng"
+        },
+        {
+            "id": 67,
+            "label": "sách hay người ta đọc thích",
+            "text": "sách hay người ta mới thích đọc"
+        },
+        {
+            "id": 68,
+            "label": "trong tình hình đó đòi hỏi ta cố gắng phải",
+            "text": "trong tình hình đó đòi hỏi ta phải cố gắng"
+        },
+        {
+            "id": 69,
+            "label": "dưa hấu chuối ăn khác nhau",
+            "text": "dưa hấu và chuối có cách ăn khác nhau"
+        },
+        {
+            "id": 70,
+            "label": "cô ấy mẹ",
+            "text": "mẹ cô ấy"
+        },
+        {
+            "id": 71,
+            "label": "Lan ra áo quần lấy",
+            "text": "mày có ra lấy áo quần vào không Lan"
+        },
+        {
+            "id": 72,
+            "label": "năm phút bắt đầu",
+            "text": "năm phút nữa bắt đầu"
+        },
+        {
+            "id": 73,
+            "label": "anh nói sao",
+            "text": "sao anh lại nói thế"
+        },
+        {
+            "id": 74,
+            "label": "bà ấy chó đánh quá tác dụng không có",
+            "text": "bà ấy đánh con chó dữ quá , làm không có tác dụng giáo dục"
+        },
+        {
+            "id": 75,
+            "label": "Tôi thẹn nhưng trả lời thành thật không",
+            "text": "Tôi hơi thẹn nhưng trả lời thành thật : \" không , tôi không biết \""
+        },
+        {
+            "id": 76,
+            "label": "họ sống và chiến đấu",
+            "text": "họ sống và chiến đấu"
+        },
+        {
+            "id": 77,
+            "label": "tôi tự nhiên nói anh không một chút nghi ngờ",
+            "text": "tôi cố nói rất tự nhiên để anh không một chút nghi ngờ"
+        },
+        {
+            "id": 78,
+            "label": "mưa nhà trẻ cháu không đi",
+            "text": "trời mưa thì cháu không đi nhà trẻ được"
+        },
+        {
+            "id": 79,
+            "label": "lớp 6 học đang mà Thuý Toán lớp 7 làm được",
+            "text": "đang học lớp 6 mà Thuý đã làm được Toán lớp 7"
+        },
+        {
+            "id": 80,
+            "label": "lỗi này tại ai tôi không biết",
+            "text": "lỗi này tại ai thì tôi không biết"
+        },
+        {
+            "id": 81,
+            "label": "lòng quê đi một bước đường một đau",
+            "text": "lòng quê đi một bước đường một đau"
+        },
+        {
+            "id": 82,
+            "label": "mưa ướt hết",
+            "text": "Mưa ướt hết bây giờ"
+        },
+        {
+            "id": 83,
+            "label": "Không khí êm ả trong sạch",
+            "text": "Không khí êm ả và trong sạch"
+        },
+        {
+            "id": 84,
+            "label": "thú thịt ăn săn khó là hổ",
+            "text": "loài thú ăn thịt khó săn là hổ"
+        },
+        {
+            "id": 85,
+            "label": "đẹp quá",
+            "text": "đẹp quá"
+        },
+        {
+            "id": 86,
+            "label": "người gặp bỗng ngựa lưng đèo cao",
+            "text": "bỗng gặp người , lưng ngựa đèo cao"
+        },
+        {
+            "id": 87,
+            "label": "cám ơn bác",
+            "text": "cám ơn bác"
+        },
+        {
+            "id": 88,
+            "label": "thanh này thanh kia không dài bằng",
+            "text": "thanh này không dài bằng thanh kia"
+        },
+        {
+            "id": 89,
+            "label": "việc làm mở đường lối đi tạo cho kẻ đến sau bao giờ nghiêm trang và khó nhọc",
+            "text": ", việc làm mở đường , tạo lối đi cho kẻ đến sau bao giờ cũng nghiêm trang và khó nhọc"
+        },
+        {
+            "id": 90,
+            "label": "bạc còn tiền còn đệ tử còn",
+            "text": "còn bạc còn tiền còn đệ tử"
+        },
+        {
+            "id": 91,
+            "label": "Lương đèn pin bật đồng hồ tay nhìn giờ hai rưỡi sáng",
+            "text": "Lương bật đèn pin nhìn đồng hồ tay : hai giơ rưỡi sáng"
+        },
+        {
+            "id": 92,
+            "label": "ở đời chữ nhân quý",
+            "text": "ở đời quý nhất chữ nhân"
+        },
+        {
+            "id": 93,
+            "label": "mẹ yên tâm cô thường thư cho mẹ viết",
+            "text": "để cho mẹ yên tâm , cô thường viết thư cho mẹ"
+        },
+        {
+            "id": 94,
+            "label": "sáng nay nó đến tôi nhà có không",
+            "text": "sáng nay , nó đến mà tôi lại không có nhà"
+        },
+        {
+            "id": 95,
+            "label": "nó làm được thế này khá rồi",
+            "text": "nó làm được thế này đã là khá lắm rồi"
+        },
+        {
+            "id": 96,
+            "label": "mình đọc hay tôi đọc",
+            "text": "mình đọc hay tôi đọc"
+        },
+        {
+            "id": 97,
+            "label": "Nam trúng cử mới chết chứ",
+            "text": "Nam sẽ trúng cử mới chết chứ"
+        },
+        {
+            "id": 98,
+            "label": "đánh trong ra ngoài đánh vào thì thắng nhất định",
+            "text": "trong đánh ra ngoài đánh vào thì nhất định thắng"
+        },
+        {
+            "id": 99,
+            "label": "kẹo chanh nó thích",
+            "text": "nó thích là kẹo chanh"
+        },
+        {
+            "id": 100,
+            "label": "Tú tóc bạc hết rồi",
+            "text": "cụ Tú tóc đã bạc hết rồi"
+        },
+        {
+            "id": 101,
+            "label": "anh ấy cần thì tôi làm xong",
+            "text": "anh ấy cần thì tôi làm xong"
+        },
+        {
+            "id": 102,
+            "label": "ăn không",
+            "text": "không ăn"
+        },
+        {
+            "id": 103,
+            "label": "em gái tôi họ hàng thăm viếng ít",
+            "text": "em gái tôi ít khi thăm viếng họ hàng"
+        },
+        {
+            "id": 105,
+            "label": "tôi thuốc lá bõ",
+            "text": "tôi đã bõ thuốc lá"
+        },
+        {
+            "id": 106,
+            "label": "ai không nên người lảng dần",
+            "text": "không ai nói gì nên người lảng dần ra"
+        },
+        {
+            "id": 108,
+            "label": "trong khoa người bóng bàn đánh có",
+            "text": "trong khoa còn có người khác biết đánh bóng bàn"
+        },
+        {
+            "id": 109,
+            "label": "em tôi kẹo chanh thích",
+            "text": "em tôi thích nhất kẹo chanh"
+        },
+        {
+            "id": 110,
+            "label": "đèn đêm bật sân bay bắt đầu làm việc",
+            "text": "đèn đêm đã bật , sân bay lại bắt đầu làm việc"
+        },
+        {
+            "id": 111,
+            "label": "điều ấy tôi biết rồi",
+            "text": "điều ấy tôi biết rồi"
+        },
+        {
+            "id": 112,
+            "label": "nước non đẹp như tranh",
+            "text": "nước non mình đâu cũng đẹp như tranh"
+        },
+        {
+            "id": 113,
+            "label": "ly biệt mà sao buồn",
+            "text": ", cảnh ly biệt mà sao buồn vậy"
+        },
+        {
+            "id": 114,
+            "label": "cuốn Chí Phèo ở dưới tạp chí",
+            "text": "cuốn Chí Phèo ở dưới chồng tạp chí"
+        },
+        {
+            "id": 115,
+            "label": "chứ con trâu trước đi cày đi sau thì chủ nghĩa chưa phải",
+            "text": "chứ con trâu đi trước cái cày đi sau thì chưa phải là chủ nghĩa"
+        },
+        {
+            "id": 116,
+            "label": "kết quả khả quan",
+            "text": "thì kết quả cũng khả quan"
+        },
+        {
+            "id": 117,
+            "label": "đây là chỗ họp thích hợp nhất",
+            "text": "đây là chỗ họp thích hợp nhất"
+        },
+        {
+            "id": 118,
+            "label": "quý vị ngồi",
+            "text": "quý vị ngồi xuống đi"
+        },
+        {
+            "id": 119,
+            "label": "vì thế đối với cháu nhiều",
+            "text": "vì thế là nhiều đối với cháu"
+        },
+        {
+            "id": 120,
+            "label": "tôi trận ấy đã xem",
+            "text": "tôi đã xem trận ấy"
+        },
+        {
+            "id": 121,
+            "label": "ai làm tôi biết không",
+            "text": "ai làm thì tôi không biết"
+        },
+        {
+            "id": 122,
+            "label": "thiết tưởng chuyện này anh rõ",
+            "text": "thiết tưởng chuyện này anh thừa rõ"
+        },
+        {
+            "id": 123,
+            "label": "đau đớn thay phận đàn bà",
+            "text": "đau đớn thay phận đàn bà"
+        },
+        {
+            "id": 124,
+            "label": "anh tôi Bình đánh",
+            "text": "anh tôi đánh ông bình"
+        },
+        {
+            "id": 125,
+            "label": "tôi anh cấm",
+            "text": "tôi đã cấm anh kia rồi mà"
+        },
+        {
+            "id": 126,
+            "label": "đề đọc kỹ không nó tập làm văn hỏng",
+            "text": "vì không đọc kỹ đề , nó đã làm hỏng mất bài tập làm văn"
+        },
+        {
+            "id": 127,
+            "label": "vườn rộng rào thưa gà khó duổi",
+            "text": "vườn rộng rào thưa , khó duổi gà"
+        },
+        {
+            "id": 128,
+            "label": "thú điển hình thịt ăn là hổ",
+            "text": "loài thú ăn thịt điển hình là hổ"
+        },
+        {
+            "id": 129,
+            "label": "người thước nách kẻ đao tay",
+            "text": "người nách thước , kẻ tay đao"
+        },
+        {
+            "id": 130,
+            "label": "thân tôi khổ thân Ngói khổ",
+            "text": "thân tôi khổ , thân Ngói cũng khổ"
+        },
+        {
+            "id": 131,
+            "label": "cần gì ? nói",
+            "text": "cần gì ? nói ngay đi"
+        },
+        {
+            "id": 132,
+            "label": "bước khi tay ôm sách thế kia",
+            "text": "bước được khi tay ôm chông sách thế kia"
+        },
+        {
+            "id": 133,
+            "label": "khuya rồi",
+            "text": "khuya rồi"
+        },
+        {
+            "id": 134,
+            "label": "anh những ai đã gặp",
+            "text": "những ai đã gặp anh"
+        },
+        {
+            "id": 135,
+            "label": "anh về bao giờ",
+            "text": "bao giờ thì anh về"
+        },
+        {
+            "id": 136,
+            "label": "con khóc mẹ bú cho",
+            "text": "con có khóc thì mẹ mới cho bú"
+        },
+        {
+            "id": 137,
+            "label": "ở đâu chứ ở đây lo khỏi",
+            "text": "ở đâu chứ ở đây thì khỏi lo"
+        },
+        {
+            "id": 138,
+            "label": "bụi tre vườn chè vườn cọ ngòi ruộng quen thuộc yêu không khác gì nơi quê hương mình",
+            "text": "từng bụi tre , vườn chè , vườn cọ , con ngòi , đám ruộng đã quen thuộc , đáng yêu không khác gì nơi quê hương mình rồi"
+        },
+        {
+            "id": 139,
+            "label": "họ lần cuối gặp trong chiến dịch Tây Bắc",
+            "text": "họ gặp nhau lần cuối là trong chiến dịch Tây Bắc"
+        },
+        {
+            "id": 140,
+            "label": "hỗn mẹ được không",
+            "text": "nói hỗn với mẹ là không được"
+        },
+        {
+            "id": 141,
+            "label": "nó thi hỏng vì lạc đề",
+            "text": "nó hỏng kì thi này vì lạc đề"
+        },
+        {
+            "id": 142,
+            "label": "phen này thì phải biết",
+            "text": "phen này thì phải biết"
+        },
+        {
+            "id": 143,
+            "label": "ao nước sâu khôn chài cá",
+            "text": "ao sâu nước , khôn chài cá"
+        },
+        {
+            "id": 144,
+            "label": "cậu chó mèo thích hơn",
+            "text": "cậu thích chó hơn hay mèo hơn"
+        },
+        {
+            "id": 145,
+            "label": "mẹ nó đánh là đánh cho nó sợ",
+            "text": "mẹ nó đánh là đánh cho nó sợ"
+        },
+        {
+            "id": 146,
+            "label": "hiếm ông bà ấy con trai không",
+            "text": "hiếm một nỗi là ông bà ấy không có con trai"
+        },
+        {
+            "id": 147,
+            "label": "nó yêu là yêu túi tiền của mày",
+            "text": "nó yêu là yeu cáu túi tiền của mày"
+        },
+        {
+            "id": 148,
+            "label": "thú lớn lông màu vàng vằn đen thịt ăn là hổ",
+            "text": "loài thú ăn thịt cỡ lớn lông màu vàng có vằn đen là hổ"
+        },
+        {
+            "id": 149,
+            "label": "cám ơn bạn",
+            "text": "cám ơn bạn"
+        },
+        {
+            "id": 150,
+            "label": "ngày anh lên đường tôi biết cần",
+            "text": "tôi cần biết ngày anh lên đường"
+        },
+        {
+            "id": 151,
+            "label": "anh mời tôi đến",
+            "text": "anh mời tôi đến"
+        },
+        {
+            "id": 152,
+            "label": "cháu bài thi toán làm đã",
+            "text": "cháu đã làm bài thi toán"
+        },
+        {
+            "id": 153,
+            "label": "ở Yên Bái hai người lần cuối cùng gặp",
+            "text": "hai người gặp nhau lần cuối cùng là ở Yên Bái"
+        },
+        {
+            "id": 154,
+            "label": "món này ngon ăn tốn công làm",
+            "text": "món này ăn thì ngon làm thì tốn công"
+        },
+        {
+            "id": 155,
+            "label": "cô bé nhà bên là du kích",
+            "text": "cô bé nhà bên cũng là du kích"
+        },
+        {
+            "id": 156,
+            "label": "Nam tôi gặp ở trường",
+            "text": "anh Nam ấy , tôi vừa gặp anh ấy ở trường xong"
+        },
+        {
+            "id": 157,
+            "label": "tôi hút thuốc lá cha cấm",
+            "text": "cha tôi cấm tôi hút thuốc lá"
+        },
+        {
+            "id": 158,
+            "label": "bây giờ đi bộ không kịp",
+            "text": "bây giờ mà đi bộ thì không kịp"
+        },
+        {
+            "id": 159,
+            "label": "lúc bà trở dạ dông bão ầm ầm",
+            "text": "lúc bà trở dạ , dông bão nỗi lên ầm ầm"
+        },
+        {
+            "id": 160,
+            "label": "quả tình tôi anh ý chê có",
+            "text": "quả tình là tôi có ý gì chê anh đâu"
+        },
+        {
+            "id": 161,
+            "label": "trời lạnh ăn mặc phong phanh cảm chưa may",
+            "text": "trời lạnh mà ăn mặc phong phanh thế này thì chưa bị cảm là may đấy"
+        },
+        {
+            "id": 162,
+            "label": "kẹo chanh thích nhất em ai",
+            "text": "em ai thích nhất kẹo chanh"
+        },
+        {
+            "id": 163,
+            "label": "Hồ Chủ Tịch người gặp được",
+            "text": "người đã được gặp Hồ Chủ Tịch"
+        },
+        {
+            "id": 164,
+            "label": "vua con thất thế chùa quét",
+            "text": "con vua thất thế lại đi quét chùa"
+        },
+        {
+            "id": 165,
+            "label": "cần nói",
+            "text": "cần gì , nói ngay đi"
+        },
+        {
+            "id": 166,
+            "label": "một người thì mến chả",
+            "text": "một người thì chả mến"
+        },
+        {
+            "id": 167,
+            "label": "lần cuối họ gặp là ở Tây Bắc",
+            "text": "họ gặp nhau lần cuối là ở Tây Bắc cơ"
+        },
+        {
+            "id": 168,
+            "label": "chợ không họp vì không phải phiên",
+            "text": "chợ không họp vì không phải phiên"
+        },
+        {
+            "id": 169,
+            "label": "địch thấy đội hình khai triển",
+            "text": "thấy địch khai triển đội hình"
+        },
+        {
+            "id": 170,
+            "label": "cái này tiền bao nhiêu",
+            "text": "cái này bao nhiêu tiền"
+        },
+        {
+            "id": 171,
+            "label": "Nam em sai thuốc lá mua",
+            "text": "Nam sai em đi mua thuốc lá"
+        },
+        {
+            "id": 172,
+            "label": "công việc bộn bề",
+            "text": "công việc đang bộn bề"
+        },
+        {
+            "id": 173,
+            "label": "bạn ăn sáng giờ",
+            "text": "bạn ăn sáng lúc giờ"
+        },
+        {
+            "id": 174,
+            "label": "muốn tiền chứ gì",
+            "text": "lại muốn vòi tiền nữa chứ gì"
+        },
+        {
+            "id": 175,
+            "label": "mẹ Hà Nội đi chưa",
+            "text": "mẹ đi Hà Nội chưa"
+        },
+        {
+            "id": 176,
+            "label": "việc này không chóng thì chầy kết quả xấu",
+            "text": "việc này không chóng thì chầy cũng sẽ đưa đến kết quả xấu"
+        },
+        {
+            "id": 177,
+            "label": "Cao Bằng gạo trắng nước trong",
+            "text": "Cao Bằng gạo trắng nước trong"
+        },
+        {
+            "id": 178,
+            "label": "tôn trọng giúp đỡ người già cả phụ nữ có thai phải",
+            "text": "phải tôn trọng và giúp đỡ người già cả và phụ nữ có thai"
+        },
+        {
+            "id": 179,
+            "label": "sách hay ai đọc thích",
+            "text": "sách hay thì ai cũng thích đọc"
+        },
+        {
+            "id": 180,
+            "label": "tệ thế",
+            "text": "tệ thế kia"
+        },
+        {
+            "id": 181,
+            "label": "tôi ông Ba tiêu tiền của không",
+            "text": "tôi không tiêu tiền của ông Ba"
+        },
+        {
+            "id": 182,
+            "label": "hôm qua và hôm kia họ bộ đi",
+            "text": "hôm qua và hôm kia thì họ đi bộ"
+        },
+        {
+            "id": 183,
+            "label": "cửa sổ gió mở",
+            "text": "gió mở tung cửa sổ"
+        },
+        {
+            "id": 184,
+            "label": "làm thế nào",
+            "text": "Phải làm thế nào"
+        },
+        {
+            "id": 185,
+            "label": "ô hay con",
+            "text": "ô hay , con"
+        },
+        {
+            "id": 186,
+            "label": "trên thềm lá rụng",
+            "text": "lá rụng trên thềm"
+        },
+        {
+            "id": 187,
+            "label": "bạn trật tự không",
+            "text": "bạn có giữ trật tự không nào"
+        },
+        {
+            "id": 188,
+            "label": "thuốc ngày uống giọt năm",
+            "text": "thuốc này uống ngày năm giọt"
+        },
+        {
+            "id": 189,
+            "label": "tôi xem đội ta đội bạn đấu",
+            "text": "tôi đã xem đội ta đấu với đội bạn"
+        },
+        {
+            "id": 190,
+            "label": "nấu nướng nhà mình em có",
+            "text": "nấu nướng thì ở nhà có mình em"
+        },
+        {
+            "id": 191,
+            "label": "khi mẹ tàu lên con ba đánh điện",
+            "text": "khi mẹ lên tàu , con đánh điện cho ba"
+        },
+        {
+            "id": 192,
+            "label": "voi tê giác khoẻ không bằng",
+            "text": "con tê giác không khoẻ bằng con voi"
+        },
+        {
+            "id": 193,
+            "label": "nâng cao năng suất muốn ta cải tiến thao tác phải",
+            "text": "muốn nâng cao năng suất thì ta phải cải tiến thao tác"
+        },
+        {
+            "id": 194,
+            "label": "về ai ở ai mặc ai",
+            "text": "ai về ai ở mặc ai"
+        },
+        {
+            "id": 195,
+            "label": "chó treo mèo đậy",
+            "text": "chó treo , mèo đậy"
+        },
+        {
+            "id": 196,
+            "label": "chủ nhật tôi nhạc nghe",
+            "text": "tôi chỉ nghe nhạc vào ngày chủ nhật"
+        },
+        {
+            "id": 197,
+            "label": "nó ngã suýt",
+            "text": "nó suýt ngã"
+        },
+        {
+            "id": 198,
+            "label": "cháu kén quá",
+            "text": "cháu kén quá đấy"
+        },
+        {
+            "id": 199,
+            "label": "bé khóc",
+            "text": "em bé khóc"
+        },
+        {
+            "id": 200,
+            "label": "Nam làm việc chăm chỉ",
+            "text": "anh Nam làm việc thì chăm chỉ"
+        },
+        {
+            "id": 201,
+            "label": "anh về bao giờ",
+            "text": "anh về bao giờ"
+        },
+        {
+            "id": 202,
+            "label": "giáo viên chuối xanh ăn",
+            "text": "giáo viên ăn quả chuối xanh"
+        },
+        {
+            "id": 203,
+            "label": "cuốn sách tập nhạc dưới",
+            "text": "tập nhạc đặt dưới cuốn sách"
+        },
+        {
+            "id": 204,
+            "label": "bình vỡ rồi",
+            "text": "cái bình vỡ mất rồi"
+        },
+        {
+            "id": 205,
+            "label": "sau đây điểm nói rõ cần",
+            "text": "sau đây là điểm cần nói rõ thêm"
+        },
+        {
+            "id": 206,
+            "label": "tôi nó cấm",
+            "text": "tôi cấm nó rồi"
+        },
+        {
+            "id": 207,
+            "label": "sách tay ôm thế kia bước",
+            "text": "Tay ôm chồng sách thế kia thì bước được"
+        },
+        {
+            "id": 208,
+            "label": "nợ đời chi đây",
+            "text": "chẳng qua là cái nợ đời chi đây"
+        },
+        {
+            "id": 209,
+            "label": "lớp trưởng gương mẫu không nói bạn được",
+            "text": "là lớp trưởng mà không gương mẫu thì sao nói được bạn"
+        },
+        {
+            "id": 210,
+            "label": "như tranh thuỷ mặc đẹp",
+            "text": "như tranh thuỷ mặc ấy , đẹp quá"
+        },
+        {
+            "id": 211,
+            "label": "ông giáo cậu Vàng đi đời rồi",
+            "text": "cậu Vàng đi đời rồi ông giáo ạ"
+        },
+        {
+            "id": 212,
+            "label": "càng âu duyên mới càng dào tình xưa",
+            "text": "càng âu duyên mới , càng dào tình xưa"
+        },
+        {
+            "id": 213,
+            "label": "anh mời tôi đến",
+            "text": "anh mời thì tôi đến"
+        },
+        {
+            "id": 214,
+            "label": "giáo viên 3",
+            "text": "ba giáo viên"
+        },
+        {
+            "id": 215,
+            "label": "Xiêm áo ai",
+            "text": "Xiêm áo ai"
+        },
+        {
+            "id": 216,
+            "label": "chiến sĩ ấy gặp ai anh quên không thể nào",
+            "text": "người chiến sĩ ấy , ai đã gặp anh không thể nào quên"
+        },
+        {
+            "id": 217,
+            "label": "đèn khi tỏ khi mờ",
+            "text": "ngọn đèn khi tỏ khi mờ"
+        },
+        {
+            "id": 218,
+            "label": "ở đâu quen đấy",
+            "text": "ở đâu quen đấy"
+        },
+        {
+            "id": 219,
+            "label": "thế thì tôi khổ",
+            "text": "thế thì có khổ cho tôi không"
+        },
+        {
+            "id": 220,
+            "label": "theo tôi nên làm",
+            "text": "theo ý tôi thì nên làm"
+        },
+        {
+            "id": 221,
+            "label": "nó thăng chức nữa",
+            "text": "nó còn được thăng chức nữa"
+        },
+        {
+            "id": 222,
+            "label": "mát thì ở đây mát hơn",
+            "text": "mát thì ở đây mát hơn"
+        },
+        {
+            "id": 223,
+            "label": "non nước nhớ nước non quên",
+            "text": "non thì nhớ nước , nước mà quên non"
+        },
+        {
+            "id": 224,
+            "label": "nghèo tội lỗi không phải",
+            "text": "nghèo không phải là tội lỗi"
+        },
+        {
+            "id": 225,
+            "label": "nho xanh",
+            "text": "nho xanh"
+        },
+        {
+            "id": 226,
+            "label": "nói vào đề",
+            "text": "nói vào đề"
+        },
+        {
+            "id": 227,
+            "label": "anh hài lòng",
+            "text": "anh hài lòng lắm thì phải"
+        },
+        {
+            "id": 228,
+            "label": "thi chủ quan trượt dễ",
+            "text": "đi thi mà chủ quan thì rất dễ trượt"
+        },
+        {
+            "id": 229,
+            "label": "sông cạn đá mòn anh thuỷ chung vẫn",
+            "text": "sông cạn đá mòn anh vẫn thuỷ chung"
+        },
+        {
+            "id": 231,
+            "label": "anh đàn đánh tôi nghe",
+            "text": "anh đánh đàn cho tôi nghe"
+        },
+        {
+            "id": 232,
+            "label": "biết ai mà sợ",
+            "text": "nhưng ai biết mà sợ"
+        },
+        {
+            "id": 233,
+            "label": "đất nói năng biết thầy địa lý hàm răng còn không",
+            "text": "hòn đất mà biết nói năng thì thầy địa lý hàm răng không còn"
+        },
+        {
+            "id": 234,
+            "label": "đại bác ùng oàng suốt đêm",
+            "text": "đại bác ùng oàng suốt đêm"
+        },
+        {
+            "id": 235,
+            "label": "buổi hành quân nắng lửa vui",
+            "text": "vui sao buổi hành quân nắng lửa"
+        },
+        {
+            "id": 236,
+            "label": "trời rét muốn",
+            "text": "trời muốn trở rét"
+        },
+        {
+            "id": 237,
+            "label": "xe mất coi chừng",
+            "text": "coi chừng mất xe"
+        },
+        {
+            "id": 238,
+            "label": "đời chữ nhân quý thì chưa",
+            "text": "đời còn quý chữ nhân thì chưa"
+        },
+        {
+            "id": 239,
+            "label": "chuyện vui chuyện buồn chuyện gia đình chuyện hàng xóm kể mãi không hết",
+            "text": "chuyện vui , chuyện buồn , chuyện gia đình , chuyện hàng xóm , … kể mãi không hết"
+        },
+        {
+            "id": 240,
+            "label": "tôi bạn gửi lời chào thân ái",
+            "text": "tôi gửi bạn lời chào thân ái"
+        },
+        {
+            "id": 241,
+            "label": "cần gì nói",
+            "text": "cần gì ? nói ngay đi"
+        },
+        {
+            "id": 242,
+            "label": "chạy làm cho khí huyết lưu thông",
+            "text": "chạy làm cho khí huyết lưu thông"
+        },
+        {
+            "id": 243,
+            "label": "ai không nhưng người lảng dần",
+            "text": "không ai nói gì nhưng người lảng dần ra"
+        },
+        {
+            "id": 244,
+            "label": "truyện anh kiệt tác",
+            "text": "tập truyện của anh là một kiệt tác"
+        },
+        {
+            "id": 245,
+            "label": "ai không người lảng dần",
+            "text": "không ai nói gì , rồi người lảng dần ra"
+        },
+        {
+            "id": 246,
+            "label": "kinh nghiệm thấy quản lí vật tư tầm quan trọng",
+            "text": "qua kinh nghiệm cho ta thấy , tầm quan trọng của việc quản lí vật tư"
+        },
+        {
+            "id": 247,
+            "label": "mưa năm nay nhiều",
+            "text": "Năm nay mưa nhiều không"
+        },
+        {
+            "id": 248,
+            "label": "anh ta tôi một cách bày đứng đợi ai gánh hàng gặp chợ đi đi theo",
+            "text": "anh ta bày cho tôi một cách : đứng đợi đấy , gặp ai gánh hàng đi chợ thì đi theo"
+        },
+        {
+            "id": 249,
+            "label": "nếu anh cần thì tôi làm xong",
+            "text": "nếu anh thấy cần thì tôi làm xong"
+        },
+        {
+            "id": 250,
+            "label": "còn cháu là",
+            "text": "còn cháu là"
+        },
+        {
+            "id": 251,
+            "label": "gã kia máy làm hỏng",
+            "text": "gã kia làm hỏng cái máy mất"
+        },
+        {
+            "id": 252,
+            "label": "Nam trúng cử có thể",
+            "text": "Nam có thể trúng cử đấy"
+        },
+        {
+            "id": 253,
+            "label": "vì lợi ích chung ông ta từ chức xin",
+            "text": "vì lợi ích chung ông ta đã xin từ chức"
+        },
+        {
+            "id": 254,
+            "label": "tôi được làm",
+            "text": "tôi làm được"
+        },
+        {
+            "id": 255,
+            "label": "khi tàu về",
+            "text": "khi tàu chạy về"
+        },
+        {
+            "id": 256,
+            "label": "trong cuộc họp tôi đã câu hỏi nêu nhất quan trọng",
+            "text": "trong cuộc họp , tôi đã nêu câu hỏi ấy lên , câu hỏi quan trọng nhất"
+        },
+        {
+            "id": 257,
+            "label": "người đi rồi , tôi đi sau sẽ",
+            "text": "người đi trước cả , còn tôi thì tôi sẽ đi sau"
+        },
+        {
+            "id": 258,
+            "label": "tác giả này nhận định khác hẳn",
+            "text": "số tác giả này nhận định khác hẳn"
+        },
+        {
+            "id": 259,
+            "label": "tôi anh cấm",
+            "text": "tôi cấm anh"
+        },
+        {
+            "id": 260,
+            "label": "anh ấy tôi ra sức chiều chuộng",
+            "text": "tôi đã ra sức chiều chuộng anh ấy"
+        },
+        {
+            "id": 261,
+            "label": "mẹ đã về",
+            "text": "mẹ đã về"
+        },
+        {
+            "id": 262,
+            "label": "ông ấy làm việc sáng chiều liên tục",
+            "text": "ông ấy làm việc liên tục suốt từ sáng đến chiều"
+        },
+        {
+            "id": 263,
+            "label": "Biết bao nhiêu là đổi thay",
+            "text": "Biết bao nhiêu là sự đổi thay"
+        },
+        {
+            "id": 264,
+            "label": "lúc ấy tát nghe",
+            "text": "lúc ấy có thể nghe thấy một cái tác rất kêu"
+        },
+        {
+            "id": 265,
+            "label": "tôi tin Nam trúng cử chắc",
+            "text": "Nam thì tôi tin chắc là sẽ trúng cử"
+        },
+        {
+            "id": 266,
+            "label": "yêu trong lòng chết",
+            "text": "yêu là chết ở trong lòng"
+        },
+        {
+            "id": 267,
+            "label": "nói hết",
+            "text": "nói hết"
+        },
+        {
+            "id": 268,
+            "label": "anh thuốc lá hút tôi cấm",
+            "text": "tôi cấm anh hút thuốc lá"
+        },
+        {
+            "id": 269,
+            "label": "Bác yêu lòng ta trong sách hơn",
+            "text": "yêu Bác , lòng ta trong sách hơn"
+        },
+        {
+            "id": 270,
+            "label": "nó toán thi hỏng",
+            "text": "nó hỏng kì thi này vì môn toán"
+        },
+        {
+            "id": 271,
+            "label": "nhà nước tôi là",
+            "text": "nhà nước là tôi"
+        },
+        {
+            "id": 272,
+            "label": "xe đến gần phố Hàng Cót Phượng hồi hộp",
+            "text": "chiếc xe càng đến gần phố Hàng Cót , Phượng càng hồi hộp"
+        },
+        {
+            "id": 273,
+            "label": "tổ quốc có bao giờ đẹp thế này chăng",
+            "text": "tổ quốc có bao giờ đẹp thế này chăng"
+        },
+        {
+            "id": 274,
+            "label": "ai chứ nịnh vợ chứ",
+            "text": "ai chứ vợ thì phải nịnh chứ"
+        },
+        {
+            "id": 275,
+            "label": "giờ ngủ cháu im lặng",
+            "text": "giờ ngủ thì cháu im lặng"
+        },
+        {
+            "id": 276,
+            "label": "muốn gì được nấy",
+            "text": "muốn gì được nấy"
+        },
+        {
+            "id": 277,
+            "label": "chồng hay chữ lấy là tiên",
+            "text": "lấy chồng hay chữ là tiên"
+        },
+        {
+            "id": 278,
+            "label": "mà chàng sự nghiệp chí cao vì",
+            "text": "mà chàng quên chí cao vì sự nghiệp"
+        },
+        {
+            "id": 279,
+            "label": "anh ấy đến đây chị gặp",
+            "text": "anh ấy đến đây để gặp chị"
+        },
+        {
+            "id": 280,
+            "label": "lạt buộc chặt",
+            "text": "lạt buộc chặt"
+        },
+        {
+            "id": 281,
+            "label": "chuyện này nghiêm trọng",
+            "text": "chuyện này nghiêm trọng đây"
+        },
+        {
+            "id": 282,
+            "label": "đồng chí đề nghị yên lặng",
+            "text": "đề nghị đồng chí yên lặng"
+        },
+        {
+            "id": 283,
+            "label": "đường sá lầy lội kinh",
+            "text": "đường sá lầy lội kinh người"
+        },
+        {
+            "id": 284,
+            "label": "thanh này thanh kia ngắn hơn",
+            "text": "thanh này ngắn hơn thanh kia"
+        },
+        {
+            "id": 285,
+            "label": "Trời ấm áp",
+            "text": "Trời ấm áp"
+        },
+        {
+            "id": 286,
+            "label": "trung uý Dũng đại đội chúng tôi chỉ huy",
+            "text": "trung uý Dũng là chỉ huy đại đội chúng tôi"
+        },
+        {
+            "id": 287,
+            "label": "tôi ổ khoá này mở bằng mũi dao nhíp",
+            "text": "tôi mở cái ổ khoá này bằng mũi dao nhíp"
+        },
+        {
+            "id": 288,
+            "label": "dưới tạp chí có cuốn Chí Phèo",
+            "text": "dưới chồng tạp chí có cuốn Chí Phèo"
+        },
+        {
+            "id": 289,
+            "label": "thế thì tốt",
+            "text": "thế thì tốt"
+        },
+        {
+            "id": 290,
+            "label": "mưa thì ở lại",
+            "text": "trời mà mưa thì ở lại"
+        },
+        {
+            "id": 291,
+            "label": "bấy giờ bây giờ hơn sáu năm",
+            "text": "từ bấy giờ đến bây giờ , hơn sáu năm rồi"
+        },
+        {
+            "id": 292,
+            "label": "anh ấy tôi ra sức chiều chuộng mà mình bị bạc đãi kêu",
+            "text": "anh ấy tôi đã ra sức chiều chuộng mà vẫn kêu là mình bị bạc đãi"
+        },
+        {
+            "id": 293,
+            "label": "gây chuyện này tôi không phải",
+            "text": "gây ra chuyện này không phải là tôi"
+        },
+        {
+            "id": 294,
+            "label": "Cụ Tú tóc bạc hết",
+            "text": "Cụ Tú đã bạc hết tóc rồi"
+        },
+        {
+            "id": 295,
+            "label": "em buồn",
+            "text": "em , buồn"
+        },
+        {
+            "id": 296,
+            "label": "ở đây lúc này nóng quá",
+            "text": "ở đây lúc này , trời nóng quá"
+        },
+        {
+            "id": 297,
+            "label": "làm ăn như thế thì may không",
+            "text": "làm ăn thfi không là may rồi"
+        },
+        {
+            "id": 298,
+            "label": "nói làm nó có làm đâu",
+            "text": "nói là làm mà nó có làm đâu"
+        },
+        {
+            "id": 299,
+            "label": "vào đâu tre sống đâu tre xanh tốt",
+            "text": "vào đâu tre cũng sống , ở đâu tre cũng xanh tốt"
+        },
+        {
+            "id": 300,
+            "label": "con mèo này đẹp không",
+            "text": "con mèo này không đẹp"
+        },
+        {
+            "id": 301,
+            "label": "đêm vàng bên suối còn đâu",
+            "text": "còn đâu đêm vàng bên bờ suối"
+        },
+        {
+            "id": 302,
+            "label": "cửa sổ gió mở không nên",
+            "text": "gió không nên mở tung cửa sổ"
+        },
+        {
+            "id": 303,
+            "label": "anh em ở đây nhiều đóng góp có",
+            "text": "anh em ở đây nhiều đều có đóng góp"
+        },
+        {
+            "id": 304,
+            "label": "anh làm hỏng",
+            "text": "anh làm hỏng việc chứ ai"
+        },
+        {
+            "id": 305,
+            "label": "gì ta mong muốn",
+            "text": "gì ta mong muốn"
+        },
+        {
+            "id": 306,
+            "label": "bác đến chơi đây ta với ta",
+            "text": "bác đến chơi đây , ta với ta"
+        },
+        {
+            "id": 307,
+            "label": "giáo viên nho xanh thích",
+            "text": "giáo viên thích quả nho xanh"
+        },
+        {
+            "id": 308,
+            "label": "bấy giờ mùa mưa",
+            "text": "bấy giờ là vào mùa mưa"
+        },
+        {
+            "id": 309,
+            "label": "bài này lạc đề thì hỏng",
+            "text": "bài này mà lạc đề thì hỏng rồi"
+        },
+        {
+            "id": 310,
+            "label": "người một làm xuể không",
+            "text": "có một người thì làm không xuể"
+        },
+        {
+            "id": 311,
+            "label": "bói thì ra nhà quét rác thì ra",
+            "text": "bói thì ra ma , quét nhà thì ra rác"
+        },
+        {
+            "id": 312,
+            "label": "tàu chạy thì về",
+            "text": "khi tàu chạy thì về"
+        },
+        {
+            "id": 313,
+            "label": "người đâu mà vô tâm",
+            "text": "người đâu mà vô tâm"
+        },
+        {
+            "id": 314,
+            "label": "ngày tôi sống đáng sống bao nhiêu",
+            "text": "ngày tôi đang sống đáng sống bao nhiêu"
+        },
+        {
+            "id": 315,
+            "label": "cần thì nói",
+            "text": "cần gì thì nói ngay đi"
+        },
+        {
+            "id": 316,
+            "label": "tre nứa mai vầu người trăm nghìn công việc khác nhau giúp",
+            "text": "tre , nứa , mai , vầu giúp người trăm nghìn công việc khác nhau"
+        },
+        {
+            "id": 317,
+            "label": "đi sau cơ quan ta chắc chót",
+            "text": "đi sau chót chắc là cơ quan ta"
+        },
+        {
+            "id": 318,
+            "label": "cuốn truyện này hay không",
+            "text": "cuốn truyện này không hay"
+        },
+        {
+            "id": 319,
+            "label": "tôi cấm",
+            "text": "tôi cấm đấy"
+        },
+        {
+            "id": 320,
+            "label": "bỏ xuống đây",
+            "text": "bỏ xuống đây"
+        },
+        {
+            "id": 321,
+            "label": "nóng quá mưa sắp",
+            "text": "nóng quá , sắp mưa rồi"
+        },
+        {
+            "id": 322,
+            "label": "anh bàn kê đây đẹp",
+            "text": "anh kê cái bàn ấy ra đây cho đẹp"
+        },
+        {
+            "id": 323,
+            "label": "màu xanh tươi tươi mãi ánh thép hãy",
+            "text": "hãy tươi mãi màu xanh tươi ánh thép"
+        },
+        {
+            "id": 324,
+            "label": "nói đủ vừa",
+            "text": "nói vừa đủ"
+        },
+        {
+            "id": 325,
+            "label": "hôm qua sách mua anh đọc xong chưa",
+            "text": "cái quyển sách mua hôm qua ấy , anh đọc xong chưa"
+        },
+        {
+            "id": 326,
+            "label": "nó tin chẳng",
+            "text": "nó thì nó chẳng tin được"
+        },
+        {
+            "id": 327,
+            "label": "làm không thì ăn không",
+            "text": "Không làm thì không ăn đấy"
+        },
+        {
+            "id": 328,
+            "label": "ở đây tiện không",
+            "text": "ở đây thì không tiện"
+        },
+        {
+            "id": 329,
+            "label": "ai nấy đều biết luật này phạm vi hiệu luật hẹp",
+            "text": "luật này , nấy đều biết , có một phạm vi hiệu luật rất hẹp"
+        },
+        {
+            "id": 330,
+            "label": "ở đây muỗi có",
+            "text": "ở đây có muỗi"
+        },
+        {
+            "id": 331,
+            "label": "xảy ra tai nạn vì người lái xe rượu say",
+            "text": "tai nạn xảy ra là vì người lái xe say rượu"
+        },
+        {
+            "id": 332,
+            "label": "anh tệ",
+            "text": "anh tệ"
+        },
+        {
+            "id": 333,
+            "label": "tính ông Cửu tôi nhân lão tâm bất lão",
+            "text": "Tính ông Cửu nhà tôi nhân lão tâm bất lão"
+        },
+        {
+            "id": 334,
+            "label": "kịp muốn thì mai máy bay",
+            "text": "muốn kịp thì mai đi máy bay"
+        },
+        {
+            "id": 335,
+            "label": "anh nói sao được",
+            "text": "anh nói sao cũng được"
+        },
+        {
+            "id": 336,
+            "label": "Tý nước mắt ròng ròng em hôn hít nón đội mê trên đầu gói áo vào nách cắp",
+            "text": "cái Tý hai hàng nước mắt ròng ròng , hôn hít em một lượt , rồi lủi thủi , nó đội mê nón trên đầu và cắp gói áo vào nách"
+        },
+        {
+            "id": 337,
+            "label": "cảnh đẹp mà buồn",
+            "text": "cảnh đẹp mà buồn"
+        },
+        {
+            "id": 338,
+            "label": "con hay con mèo bình hoa vỡ",
+            "text": "con hay con mèo đánh vỡ bình hoa"
+        },
+        {
+            "id": 339,
+            "label": "cằm ông bạnh ra mắt trợn trừng cả người pho tượng bằng đồng đen cuồn cuộn bắp thịt",
+            "text": "cằm ông bạnh ra , mắt ông trợn trừng , cả người ông như một pho tượng bằng đồng đen cuồn cuộn bắp thịt"
+        },
+        {
+            "id": 340,
+            "label": "bệnh nhân X mổ xong",
+            "text": "bệnh nhân X đã mổ xong"
+        },
+        {
+            "id": 341,
+            "label": "hai bác tên cháu đặt chưa",
+            "text": "thế hai bác đã đặt tên cháu chưa"
+        },
+        {
+            "id": 342,
+            "label": "ông lửa tôi xin",
+            "text": "ông cho tôi xin lửa"
+        },
+        {
+            "id": 343,
+            "label": "còn thế nào bằng lòng",
+            "text": "còn thế nào nữa mới bằng lòng"
+        },
+        {
+            "id": 344,
+            "label": "giải 1 cậu bé mười hai tuổi",
+            "text": "được tặng giải 1 một cậu bé mười hai tuổi"
+        },
+        {
+            "id": 345,
+            "label": "hắn dám",
+            "text": "hắn mà dám thế"
+        },
+        {
+            "id": 346,
+            "label": "nó thi hỏng vì dốt",
+            "text": "nó hỏng kì thi này vì dốt"
+        },
+        {
+            "id": 347,
+            "label": "mưa sắp",
+            "text": "trời sắp mưa rồi kìa"
+        },
+        {
+            "id": 348,
+            "label": "nhân dân nước bộ đội cá",
+            "text": "nhân dân như nước , bộ đội như cá"
+        },
+        {
+            "id": 349,
+            "label": "có thể Nam trúng cử sẽ",
+            "text": "Nam có thể sẽ trúng cử"
+        },
+        {
+            "id": 351,
+            "label": "anh ông ấy biết Văn",
+            "text": "anh có biết ông ấy không , ông Văn ấy mà"
+        },
+        {
+            "id": 352,
+            "label": "ông ngủ cháu im lặng",
+            "text": "ông ngủ thì cháu nên im lặng"
+        },
+        {
+            "id": 353,
+            "label": "nếu thế thì tốt",
+            "text": "nếu thế thì tốt"
+        },
+        {
+            "id": 354,
+            "label": "giáo viên loại nho thích bao nhiêu",
+            "text": "giáo viên thích bao nhiêu loại nho"
+        },
+        {
+            "id": 355,
+            "label": "bao giờ đỗ trạng vinh quy được",
+            "text": "bao giờ đỗ trạng cũng được vinh quy"
+        },
+        {
+            "id": 356,
+            "label": "anh tôi Bình đánh",
+            "text": "ông bình bị anh tôi đánh"
+        },
+        {
+            "id": 357,
+            "label": "gà ông nói thì vịt bà nói",
+            "text": "ông mà nói gà thì bà lại nói vịt"
+        },
+        {
+            "id": 358,
+            "label": "no gì mà no",
+            "text": "no gì mà no"
+        },
+        {
+            "id": 359,
+            "label": "thế là tốt",
+            "text": "thế là tốt"
+        },
+        {
+            "id": 360,
+            "label": "con áo quần cất chưa",
+            "text": "con đã cất áo quần vào chưa"
+        },
+        {
+            "id": 361,
+            "label": "chiều nay mưa thế nào cũng",
+            "text": "chiều nay cũng mưa"
+        },
+        {
+            "id": 362,
+            "label": "tôi anh cần gì",
+            "text": "anh thì cần gì đến tôi"
+        },
+        {
+            "id": 363,
+            "label": "nước sôi rồi",
+            "text": "nước sôi rồi"
+        },
+        {
+            "id": 364,
+            "label": "nó cái màn làm rách",
+            "text": "nó làm rách cái màn mất"
+        },
+        {
+            "id": 365,
+            "label": "bên phải tôi ngồi là anh",
+            "text": "ngồi bên phải là anh tôi"
+        },
+        {
+            "id": 366,
+            "label": "cảnh đẹp mà buồn",
+            "text": "cảnh đẹp mà buồn"
+        },
+        {
+            "id": 367,
+            "label": "anh ấy tôi ra sức chiều chuộng",
+            "text": "anh ấy tôi đã ra sức chiều chuộng"
+        },
+        {
+            "id": 368,
+            "label": "khách má hồng nỗi truân chuyên",
+            "text": "khách má hồng nhiều nỗi truân chuyên"
+        },
+        {
+            "id": 369,
+            "label": "trăng tròn gió mát hồ lặng trời xanh trung thu cháu vui cười hớn hở",
+            "text": "cái cảnh trăng tròn , gió mát , hồ lặng , trời xanh của trung thu , lại làm cho cháu vui cười hớn hở"
+        },
+        {
+            "id": 370,
+            "label": "người ta anh yêu mến",
+            "text": "người ta đã yêu mến anh là vì thế"
+        },
+        {
+            "id": 371,
+            "label": "trên thuận dưới hoà",
+            "text": "trên thuận dưới hoà"
+        },
+        {
+            "id": 372,
+            "label": "vô luận địch hung bạo lực lượng đụng thì địch tan rã",
+            "text": "vô luận kẻ địch hung bạo thế nào , hễ đụng vào lực lượng đó thì địch nào cũng phải tan rã"
+        },
+        {
+            "id": 373,
+            "label": "anh tệ",
+            "text": "anh là tệ"
+        },
+        {
+            "id": 374,
+            "label": "yêu thì nói yêu",
+            "text": "có yêu thì nói rằng yêu"
+        },
+        {
+            "id": 375,
+            "label": "em anh thích nhất kẹo gì",
+            "text": "em anh thích nhất kẹo gì"
+        },
+        {
+            "id": 376,
+            "label": "giữa làng giữa chợ hắn bố con Bá Kiến chửi",
+            "text": "giữa làng giữa chợ mà hắn dám chửi cả bố con nhà bá Kiến"
+        },
+        {
+            "id": 377,
+            "label": "tôi chuẩn bị chưa nó đến",
+            "text": "tôi chưa kịp chuẩn bị thì nó đã đến"
+        },
+        {
+            "id": 378,
+            "label": "bây giờ giờ 3",
+            "text": "bây giờ là ba giờ rồi"
+        },
+        {
+            "id": 379,
+            "label": "xa có tiếng đại bác ùng oàng",
+            "text": "có tiếng đại bác nổ ùng oàng từ xa"
+        },
+        {
+            "id": 380,
+            "label": "chắc chắn Nam trúng cử sẽ",
+            "text": "chắc chắn là Nam sẽ trúng cử"
+        },
+        {
+            "id": 381,
+            "label": "giáo viên thích gì",
+            "text": "giáo viên thích gì"
+        },
+        {
+            "id": 382,
+            "label": "con tôi đứa làm đứa học",
+            "text": "con tôi đứa thì đi làm , đứa thì đi học"
+        },
+        {
+            "id": 383,
+            "label": "dặn thế nào làm thế ấy",
+            "text": "dặn thế nào thì làm thế ấy"
+        },
+        {
+            "id": 384,
+            "label": "người đến thì thôi",
+            "text": "người mà đến"
+        },
+        {
+            "id": 385,
+            "label": "làm ai cũng được",
+            "text": "ai làm cũng được"
+        },
+        {
+            "id": 386,
+            "label": "tôi chào hỏi Đi chợ huyện nào ông chỉ giúp tôi làm ơn",
+            "text": "tôi chào rồi hỏi : \" Đi chợ huyện nào , ông làm ơn chỉ giúp tôi \""
+        },
+        {
+            "id": 387,
+            "label": "tôi đoạn này thấy không ổn",
+            "text": "đoạn này tôi thấy không ổn"
+        },
+        {
+            "id": 388,
+            "label": "nước một dân tộc một",
+            "text": "nước ta là một , dân tộc ta là một"
+        },
+        {
+            "id": 389,
+            "label": "bài thi toán cháu điểm",
+            "text": "bài thi toán cháu được điểm"
+        },
+        {
+            "id": 390,
+            "label": "bầu rốn rụng mướp hoa ra",
+            "text": "bầu vừa rụng rốn , mướp ra hoa"
+        },
+        {
+            "id": 391,
+            "label": "tôi mẹ thương nhất",
+            "text": "tôi thương mẹ nhất"
+        },
+        {
+            "id": 392,
+            "label": "giai cấp quyền sở hữu tư liệu sản xuất nắm giai cấp thống trị",
+            "text": "giai cấp nào nắm quyền sở hữu về tư liệu sản xuất thì giai cấp đó là giai cấp thống trị"
+        },
+        {
+            "id": 393,
+            "label": "ông ấy đến tôi đi",
+            "text": "ông ấy đến thì tôi đi"
+        },
+        {
+            "id": 394,
+            "label": "chỗ này bệnh viện xây dựng tốt",
+            "text": "chỗ này mà xây dựng một bệnh viện thì tốt"
+        },
+        {
+            "id": 395,
+            "label": "nhà trẻ cháu đi không được vì mưa",
+            "text": "cháu không đi nhà trẻ được vì trời mưa"
+        },
+        {
+            "id": 396,
+            "label": "liễu đào xa liễu ngả đào nghiêng",
+            "text": "liễu xa đào liễu ngả đào nghiêng"
+        },
+        {
+            "id": 397,
+            "label": "sinh bệnh đâu phải tại ăn nhiều",
+            "text": "sinh bệnh đâu phải tại ăn , mà tại ăn nhiều quá đấy chứ"
+        },
+        {
+            "id": 398,
+            "label": "tuy vậy làm thơ không phải dễ",
+            "text": "tuy vậy , làm thơ không phải dễ"
+        },
+        {
+            "id": 399,
+            "label": "Nam chuông đánh boong boong",
+            "text": "Nam đánh cái chuông kêu boong boong"
+        },
+        {
+            "id": 400,
+            "label": "Gió loạt soạt chạy trong cỏ",
+            "text": "Gió chạy loạt soạt trong cỏ"
+        },
+        {
+            "id": 401,
+            "label": "nếu giấy mời có anh đi hãy",
+            "text": "nếu có giấy mời thì anh hãy đi"
+        },
+        {
+            "id": 402,
+            "label": "xe màu đỏ là xe của tôi",
+            "text": "cái xe màu đỏ ấy mới là xe của tôi"
+        },
+        {
+            "id": 403,
+            "label": "giáo viên nho thích",
+            "text": "giáo viên thích nho"
+        },
+        {
+            "id": 404,
+            "label": "đội hình dẫn đầu cờ biểu ngữ",
+            "text": "dẫn đầu đội hình là cờ và biểu ngữ"
+        },
+        {
+            "id": 405,
+            "label": "dễ người dễ ta",
+            "text": "dễ người dễ ta"
+        },
+        {
+            "id": 406,
+            "label": "bảo đẹp con ấy đẹp gì",
+            "text": "bảo là đẹp thì con ấy đẹp gì"
+        },
+        {
+            "id": 407,
+            "label": "anh ta bóng bàn đánh biết",
+            "text": "anh ta biết đánh bóng bàn"
+        },
+        {
+            "id": 408,
+            "label": "quyển sách này",
+            "text": "quyển sách này"
+        },
+        {
+            "id": 409,
+            "label": "quý vị an toạ mời",
+            "text": "tôi mời quý vị an toạ"
+        },
+        {
+            "id": 410,
+            "label": "cuốn sách ấy đọc được",
+            "text": "cuốn sách ấy đọc được đấy"
+        },
+        {
+            "id": 411,
+            "label": "đầu làng cây gạo sét đánh đổ",
+            "text": "cây gạo đầu làng bị sét đánh đổi rồi"
+        },
+        {
+            "id": 412,
+            "label": "bức này thế nào",
+            "text": "bức này thế nào"
+        },
+        {
+            "id": 413,
+            "label": "nó làm gì cũng giỏi",
+            "text": "nó làm gì cũng giỏi"
+        },
+        {
+            "id": 414,
+            "label": "nó kẹo chanh ăn nhiều",
+            "text": "nó ăn nhiều nhất là kẹo chanh"
+        },
+        {
+            "id": 415,
+            "label": "lí thuyết xám đều",
+            "text": "lí thuyết đều xám"
+        },
+        {
+            "id": 416,
+            "label": "đi ai về ai nó chẳng để ý",
+            "text": "ai đi ai về nó cũng chẳng để ý"
+        },
+        {
+            "id": 417,
+            "label": "tập nhạc cuốn sách trên",
+            "text": "cuốn sách đặt trên tập nhạc"
+        },
+        {
+            "id": 418,
+            "label": "Nam trúng cử đã",
+            "text": "Nam đã trúng cử"
+        },
+        {
+            "id": 419,
+            "label": "hoa này vẽ to",
+            "text": "cái bông hoa này vẽ to quá"
+        },
+        {
+            "id": 420,
+            "label": "khi mưa tạnh cầu vòng có",
+            "text": "khi trời mưa tạnh thì sẽ có cầu vòng"
+        },
+        {
+            "id": 421,
+            "label": "giếng này nước trong gần nhà",
+            "text": "giếng nước này trong mà lại gần nhà"
+        },
+        {
+            "id": 422,
+            "label": "ông Tư gà hai chết",
+            "text": "gà của ông Tư chết mất hai con"
+        },
+        {
+            "id": 423,
+            "label": "con ấy đẹp gì mà đẹp",
+            "text": "đẹp gì con ấy mà đẹp"
+        },
+        {
+            "id": 424,
+            "label": "khi chén rượu khi cờ",
+            "text": "khi chén rượu , khi cuộc cờ"
+        },
+        {
+            "id": 425,
+            "label": "nó tập làm văn làm hỏng vì đề bài đọc không kỹ",
+            "text": "nó làm hỏng bài tập làm văn vì không đọc kỹ đề bài"
+        },
+        {
+            "id": 426,
+            "label": "của đáng tội nó biết gì",
+            "text": "của đáng tội , nó có biết gì đâu"
+        },
+        {
+            "id": 427,
+            "label": "ba ngày được anh tôi hỏi Anh dân chữ quốc ngữ biết viết không",
+            "text": "sau khi đến được ba ngày , anh hỏi tôi \" Anh dân , anh có biết viết chữ quốc ngữ không ? \""
+        },
+        {
+            "id": 428,
+            "label": "chúng tôi cháu thương",
+            "text": "chúng tôi rất thương cháu"
+        },
+        {
+            "id": 429,
+            "label": "bạn chúng ta vấn đề này ý kiến nhiều có",
+            "text": "vần vấn đề này thưa bạn chúng ta có rất nhiều ý kiến"
+        },
+        {
+            "id": 430,
+            "label": "mưa thì sao",
+            "text": "trời mà mưa thì sao"
+        },
+        {
+            "id": 431,
+            "label": "trúc sau ô kìa",
+            "text": "sau trúc , ô kìa"
+        },
+        {
+            "id": 432,
+            "label": "em buồn",
+            "text": "em buồn"
+        },
+        {
+            "id": 433,
+            "label": "tôi phích nước sôi rót",
+            "text": "tôi rót nước sôi vào phích"
+        },
+        {
+            "id": 434,
+            "label": "thành lập đơn vị kỉ niệm ngày 21 tháng mười hai",
+            "text": "kỉ niệm thành lập đơn vị ta là ngày 21 tháng mười hai"
+        },
+        {
+            "id": 435,
+            "label": "thơm chẳng cũng thể hoa nhài",
+            "text": "chẳng thơm cũng thể hoa nhài"
+        },
+        {
+            "id": 436,
+            "label": "làm không ăn không",
+            "text": "không làm , không ăn"
+        },
+        {
+            "id": 437,
+            "label": "bằng lòng hay không thì nói người ta biết",
+            "text": "bằng lòng hay không thì cũng nói cho ngta biết"
+        },
+        {
+            "id": 438,
+            "label": "may vá học dễ không",
+            "text": "may vá học cũng không dễ"
+        },
+        {
+            "id": 439,
+            "label": "mày mồm câm",
+            "text": "mày câm cái mồm đi"
+        },
+        {
+            "id": 440,
+            "label": "ở đây chúng ta làm việc tuần 1 ngày 5",
+            "text": "ở đây chúng ta làm việc 5 ngày 1 tuần"
+        },
+        {
+            "id": 441,
+            "label": "người đi chỉ còn thằng bé Tun nhà ở",
+            "text": "người đi rồi chỉ còn thằng bé Tun ở nhà"
+        },
+        {
+            "id": 442,
+            "label": "hôm qua hôm kia họ đi bộ",
+            "text": "họ đi bộ hôm qua và hôm kia"
+        },
+        {
+            "id": 443,
+            "label": "bài này giải dễ",
+            "text": "bài này giải rất dễ"
+        },
+        {
+            "id": 444,
+            "label": "bài toán này em làm được không",
+            "text": "bài toán này mà em không làm được sao"
+        },
+        {
+            "id": 445,
+            "label": "cá quả khế nấu",
+            "text": "cá quả nấu với khế"
+        },
+        {
+            "id": 446,
+            "label": "còn hai sai",
+            "text": "còn hai bài kia thì sai"
+        },
+        {
+            "id": 447,
+            "label": "giáo viên cóc xanh ăn",
+            "text": "giáo viên ăn quả cóc xanh"
+        },
+        {
+            "id": 448,
+            "label": "anh về bao giờ",
+            "text": "bao giờ anh về"
+        },
+        {
+            "id": 449,
+            "label": "nước giếng này trong",
+            "text": "nước giếng này trong"
+        },
+        {
+            "id": 450,
+            "label": "nó cái màn làm rách",
+            "text": "nó làm rách mất cái màn"
+        },
+        {
+            "id": 451,
+            "label": "bảo đã",
+            "text": "đã bảo mà"
+        },
+        {
+            "id": 452,
+            "label": "nó cấm chê nó ốm đấy",
+            "text": "nó chê cấm là nó ốm đấy"
+        },
+        {
+            "id": 453,
+            "label": "món này ngon nhưng làm mất công",
+            "text": "món này ăn thì ngon nhưng làm thì mất công"
+        },
+        {
+            "id": 454,
+            "label": "lúc này gạo châu củi quế",
+            "text": "lúc này gạo châu củi quế"
+        },
+        {
+            "id": 455,
+            "label": "mây vàng gió mây đỏ mưa",
+            "text": "mây vàng thì gió , mây đỏ thì mưa"
+        },
+        {
+            "id": 456,
+            "label": "ở đây lúc này mưa sắp",
+            "text": "ở đây lúc này , trời sắp mưa"
+        },
+        {
+            "id": 457,
+            "label": "anh đau",
+            "text": "anh đau lắm"
+        },
+        {
+            "id": 458,
+            "label": "tay sách ôm Nam phòng bước vào",
+            "text": "tay ôm chồng sách , Nam bước vào phòng"
+        },
+        {
+            "id": 459,
+            "label": "cần gì thì nói bẩm mãi",
+            "text": "cần gì thì nói ngay đi , thưa bẩm mãi"
+        },
+        {
+            "id": 460,
+            "label": "nhỡ sẩy chân thì khốn",
+            "text": "nhỡ sẩy chân một cái thì khốn"
+        },
+        {
+            "id": 461,
+            "label": "cha nào con nấy",
+            "text": "cha nào con nấy"
+        },
+        {
+            "id": 462,
+            "label": "mưa năm nay ít",
+            "text": "năm nay mưa ít quá"
+        },
+        {
+            "id": 463,
+            "label": "hổ thú ăn thịt",
+            "text": "hổ là một loài thú ăn thịt"
+        },
+        {
+            "id": 464,
+            "label": "anh nó giận có nhưng ghét không",
+            "text": "nó có giận anh , nhưng không ghét anh đâu"
+        },
+        {
+            "id": 465,
+            "label": "bói ma ra thì nhà quét rác",
+            "text": "bói mà ra ma thì quét nhà ra rác"
+        },
+        {
+            "id": 466,
+            "label": "đau có",
+            "text": "có đau không"
+        },
+        {
+            "id": 467,
+            "label": "bảo no tôi có no gì đâu",
+            "text": "bảo là no thì tôi có no gì đâu"
+        },
+        {
+            "id": 468,
+            "label": "thú ăn thịt là hổ",
+            "text": "loài thú ăn thịt là hổ"
+        },
+        {
+            "id": 469,
+            "label": "trăng cao đêm khuya",
+            "text": "trăng đã lên cao , đêm đã khuya lắm"
+        },
+        {
+            "id": 470,
+            "label": "tăng gia sản xuất Phải",
+            "text": "Phải tăng gia sản xuất"
+        },
+        {
+            "id": 471,
+            "label": "chúng ta nhân dân nghĩ chúng ta mình lo lắng",
+            "text": "hoặc là chúng ta phải nghĩ tới nhân dân ; hoặc là chúng ta chỉ lo lắng cho riêng mình"
+        },
+        {
+            "id": 472,
+            "label": "khi học lớp 6 Thuý Toán lớp 7 làm được",
+            "text": "Thuý đã làm được Toán lớp 7 khi đang còn học lớp 6"
+        },
+        {
+            "id": 473,
+            "label": "thế gian vợ được chồng hỏng",
+            "text": "thế gian được vợ hỏng chồng"
+        },
+        {
+            "id": 474,
+            "label": "xóm bên cột khối bốc lên",
+            "text": "từ xóm bên bốc lên một cột khối"
+        },
+        {
+            "id": 475,
+            "label": "tôi cảm ơn",
+            "text": "tôi xin cảm ơn"
+        },
+        {
+            "id": 476,
+            "label": "mục đích hai khác nhau phương pháp khoa học kỹ thuật đạt mục đích khác nhau",
+            "text": "hai mục đích khác nhau , nên phương pháp khoa học và kỹ thuật để đạt đến mục đích cũng khác nhau"
+        },
+        {
+            "id": 477,
+            "label": "cán bộ Đảng Nhà nước đoàn thể nhân dân đảng viên và đoàn viên thanh niên lao động gương mẫu xung phong trong sản xuất và công tác",
+            "text": "cán bộ của Đảng , của Nhà nước và của đoàn thể nhân dân , đảng viên và đoàn viên thanh niên lao động cần phải xung phong gương mẫu trong sản xuất và công tác"
+        },
+        {
+            "id": 478,
+            "label": "giới thiệu Ba phải khỏi",
+            "text": "ai , anh Ba thì khỏi phải giới thiệu"
+        },
+        {
+            "id": 479,
+            "label": "may mà ta dự liệu trước rồi",
+            "text": "ta đã dự liệu trước cả rồi"
+        },
+        {
+            "id": 480,
+            "label": "ngoài kia tiếng gõ cửa mạnh bao nhiêu trong này trống ngực tôi mạnh bấy nhiêu",
+            "text": "ngoài kia tiếng gõ cửa mạnh bao nhiêu , trong này trống ngực tôi mạnh bấy nhiêu"
+        },
+        {
+            "id": 481,
+            "label": "về hay ở không tiện",
+            "text": "về hay ở đều không tiện"
+        },
+        {
+            "id": 482,
+            "label": "tôi Nam Cao đọc thích",
+            "text": "tôi chỉ thích đọc Nam Cao"
+        },
+        {
+            "id": 483,
+            "label": "trời lạnh ăn mặc phong phanh cảm áo ấm mặc",
+            "text": "trời lạnh mà ăn mặc phong phanh thì bị cảm đấy , mặc áo ấm vào"
+        },
+        {
+            "id": 484,
+            "label": "",
+            "text": "trong thì ấm , ngoài thì êm"
+        },
+        {
+            "id": 485,
+            "label": "anh sốt ruột",
+            "text": "anh sốt ruột"
+        },
+        {
+            "id": 486,
+            "label": "mạt sát không phải phê bình",
+            "text": "mạt sát không phải là phê bình"
+        },
+        {
+            "id": 487,
+            "label": "anh áo lấy chăn tôi lấy mặc vào mặc đi",
+            "text": "anh lấy áo … lấy chăn tôi … mặc vào … mặc đi"
+        },
+        {
+            "id": 488,
+            "label": "nó máy làm hỏng cố ý",
+            "text": "nó cố ý làm hỏng cái máy thật"
+        },
+        {
+            "id": 489,
+            "label": "chìa khoá này kho mở cửa",
+            "text": "chìa khoá này mở cửa kho"
+        },
+        {
+            "id": 490,
+            "label": "văn học nghệ thuật xưa nay người ta đã định nghĩa",
+            "text": "văn học nghệ thuật là gì , xưa nay người ta đã định nghĩa nhiều rồi"
+        },
+        {
+            "id": 491,
+            "label": "thằng bé hổ nhìn",
+            "text": "thằng bé nhìn con hổ"
+        },
+        {
+            "id": 492,
+            "label": "anh tôi phê bình mạt sát",
+            "text": "anh phê bình hay mạt sát tôi"
+        },
+        {
+            "id": 493,
+            "label": "thuở trời đất cơn gió bụi nổi",
+            "text": "thuở trời đất nổi cơn gió bụi"
+        },
+        {
+            "id": 494,
+            "label": "điều anh vừa nói tôi biết",
+            "text": "điều anh vừa nói ấy tôi biết rồi"
+        },
+        {
+            "id": 495,
+            "label": "lần cuối họ gặp là ở Tây Bắc nói rồi khổ lắm hỏi mãi cãi mãi",
+            "text": "họ gặp nhau lần cuối là ở Tây Bắc mà , nói rồi , khổ , hỏi mãi , cãi mãi"
+        },
+        {
+            "id": 496,
+            "label": "nếu thế là tốt",
+            "text": "nếu thế là tốt"
+        },
+        {
+            "id": 497,
+            "label": "nó không tin",
+            "text": "ai chứ nó thì không tin được"
+        },
+        {
+            "id": 498,
+            "label": "Nam bàn lau",
+            "text": "Nam lau bàn"
+        },
+        {
+            "id": 499,
+            "label": "ông Năm tốt",
+            "text": "ông Năm ấy , ông ấy tốt"
+        },
+        {
+            "id": 500,
+            "label": "đấm đá tan xương",
+            "text": "đấm đá cứ gọi là tan xương"
+        },
+        {
+            "id": 501,
+            "label": "trời đất có thổ tả gì đắt cũng",
+            "text": "trời đất , có như vậy , cái thổ tả gì cũng đắt"
+        },
+        {
+            "id": 502,
+            "label": "đó bài báo bổ ích",
+            "text": "đó là một bài báo cực kì bổ ích"
+        },
+        {
+            "id": 503,
+            "label": "tđẹp nhưng mùa nào thức ấy",
+            "text": "tuy rất đẹp nhưng mùa nào thức ấy"
+        },
+        {
+            "id": 504,
+            "label": "trên cùng tượng phật",
+            "text": "trên cùng là tượng phật"
+        },
+        {
+            "id": 505,
+            "label": "Nam cốc đập vỡ",
+            "text": "Nam đập cái cốc vỡ tan"
+        },
+        {
+            "id": 506,
+            "label": "đi xuống phong cách quen mắt",
+            "text": "càng đi xuống phong cách càng quen mắt"
+        },
+        {
+            "id": 507,
+            "label": "nó chịu rồi anh làm được",
+            "text": "nó chịu rồi , còn anh thì có làm được không"
+        },
+        {
+            "id": 508,
+            "label": "người đứng dậy",
+            "text": "người đứng dậy"
+        },
+        {
+            "id": 509,
+            "label": "nhà nước dân chủ nhà nước của dân lực lượng nhân dân huy động xã hội mới xây dựng đời sống mới con người mới",
+            "text": "nhà nước của chúng ta thật sự dân chủ , vì nhà nước đó thực sự là của dân , sứ mạng lịch sử của nó là huy động lực lượng của nhân dân để xây dựng xã hội mới , đời sống mới , con người mới"
+        },
+        {
+            "id": 510,
+            "label": "bố con Sạ gặp",
+            "text": "bố ! nếu thế thì con đã gặp anh Sạ"
+        },
+        {
+            "id": 511,
+            "label": "cá này nấm hấp ngon",
+            "text": "cá này mà hấp với nấm thì ngon tuyệt"
+        },
+        {
+            "id": 512,
+            "label": "kẹo hay nước hoa bé Nam tặng",
+            "text": "Nam tặng em bé kẹo hay nước hoa"
+        },
+        {
+            "id": 513,
+            "label": "lần cuối họ gặp là ở Tây Bắc",
+            "text": "họ gặp nhau lần cuối là ở Tây Bắc chứ"
+        },
+        {
+            "id": 514,
+            "label": "bao giờ đỗ trạng bấy giờ cưới",
+            "text": "bao giờ đỗ trạng bấy giờ cưới nhau"
+        },
+        {
+            "id": 515,
+            "label": "thổi gió bay mây",
+            "text": "gió thổi , mây bay"
+        },
+        {
+            "id": 516,
+            "label": "cứ nói thế thì nó khắc hiểu",
+            "text": "cứ nói thế thì nó khắc hiểu"
+        },
+        {
+            "id": 517,
+            "label": "dạo này ông cụ yếu",
+            "text": "ông cụ dạo này yếu"
+        },
+        {
+            "id": 518,
+            "label": "anh ấy buồn rất",
+            "text": "anh ấy rất buồn"
+        },
+        {
+            "id": 519,
+            "label": "tuy học lớp 6 mới Thuý Toán lớp 7 làm được",
+            "text": "tuy mới học lớp 6 , Thuý đã làm được Toán lớp 7"
+        },
+        {
+            "id": 520,
+            "label": "cải cây chửa ra cà nụ mới",
+            "text": "cải chửa ra cây , cà mới nụ"
+        },
+        {
+            "id": 521,
+            "label": "em anh thích nhất cái gì",
+            "text": "em anh thích nhất cái gì"
+        },
+        {
+            "id": 522,
+            "label": "người đứng dậy",
+            "text": "người đứng dậy"
+        },
+        {
+            "id": 523,
+            "label": "bác vào nước xơi",
+            "text": "bác vào chơi xơi nước ạ"
+        },
+        {
+            "id": 524,
+            "label": "một tát rất kêu",
+            "text": "một cái tát rất kêu"
+        },
+        {
+            "id": 525,
+            "label": "đúng anh này say",
+            "text": "đúng là anh này say rồi"
+        },
+        {
+            "id": 526,
+            "label": "trốn về",
+            "text": "mà trốn về được"
+        },
+        {
+            "id": 527,
+            "label": "trưa khách đến chưa",
+            "text": "quá trưa mà khách vẫn chưa đến"
+        },
+        {
+            "id": 528,
+            "label": "dưới cờ Việt Minh đồng bào hãy dũng cảm tiến lên",
+            "text": "dưới cờ Việt Minh , đồng bào hãy dũng cảm tiến lên"
+        },
+        {
+            "id": 529,
+            "label": "vì ai không nên người lãng dần",
+            "text": "vì không ai nói gì nên người lãng dần"
+        },
+        {
+            "id": 530,
+            "label": "mai mẹ về",
+            "text": "mai mẹ về"
+        },
+        {
+            "id": 531,
+            "label": "cún người ta bắt rồi",
+            "text": "con Cún người ta bắt rồi"
+        },
+        {
+            "id": 532,
+            "label": "Nam bàn đóng",
+            "text": "Nam đóng bàn"
+        },
+        {
+            "id": 533,
+            "label": "ông Ba anh ấy lấy tiền",
+            "text": "anh ấy đã lấy tiền ông Ba"
+        },
+        {
+            "id": 534,
+            "label": "nho thích ai",
+            "text": "ai thích nho"
+        },
+        {
+            "id": 535,
+            "label": "mẹ cô ấy",
+            "text": "mẹ của cô ấy"
+        },
+        {
+            "id": 536,
+            "label": "cuốn truyện này hay",
+            "text": "cuốn truyện này rất hay"
+        },
+        {
+            "id": 537,
+            "label": "tốc độ cơ giới hoá nông nghiệp đẩy mạnh giống gia súc và cây trồng cải tạo thực hiện thâm canh trên diện tích trồng trọt",
+            "text": "phải đẩy mạnh tốc độ cơ giới hoá nông nghiệp ; đẩy mạnh cải tạo giống gia súc và cây trồng nhằm thực hiện thâm canh trên diện tích trồng trọt"
+        },
+        {
+            "id": 538,
+            "label": "xe anh mới hơn vẫn của tôi",
+            "text": "chiếc xe khổ của vẫn mới hơn của tôi"
+        },
+        {
+            "id": 539,
+            "label": "địch thấy thì đội hình khai triển",
+            "text": "thấy địch thì khai triển đội hình"
+        },
+        {
+            "id": 540,
+            "label": "anh đợi ba tháng",
+            "text": "anh chỉ phải đợi ba tháng nữa là cùng"
+        },
+        {
+            "id": 541,
+            "label": "nâng cao năng suất để ta cải tiến thao tác phải",
+            "text": "để nâng cao năng suất , ta phải cải tiến thao tác"
+        },
+        {
+            "id": 542,
+            "label": "tuy ai không nhưng người lãng dần",
+            "text": "tuy không ai nói gì nhưng người lãng dần ra"
+        },
+        {
+            "id": 543,
+            "label": "mời bà ngồi chơi nước xơi trầu xơi",
+            "text": ", mời bà cứ ngồi chơi thư thả xơi nước , xơi trầu đã"
+        },
+        {
+            "id": 544,
+            "label": "mát hơn đây có Sa Pa",
+            "text": "mát mà hơn đây thì chỉ có Sa Pa"
+        },
+        {
+            "id": 545,
+            "label": "tôi không biết cũng",
+            "text": "tôi cũng không biết"
+        },
+        {
+            "id": 546,
+            "label": "giáo viên nho ăn",
+            "text": "giáo viên đã ăn quả nho"
+        },
+        {
+            "id": 547,
+            "label": "nó tin chẳng",
+            "text": "nó thì chẳng tin được"
+        },
+        {
+            "id": 548,
+            "label": "tớ toán điểm 10 được chắc chắn",
+            "text": "chắc chắn là tớ sẽ được điểm 10 về môn toán"
+        },
+        {
+            "id": 549,
+            "label": "trẻ thời đi vắng chợ thời xa",
+            "text": "trẻ thời đi vắng , chợ thời xa"
+        },
+        {
+            "id": 550,
+            "label": "tôi làm việc ở đây",
+            "text": "tôi cũng làm việc ở đây"
+        },
+        {
+            "id": 551,
+            "label": "Nam em bé cho kẹo",
+            "text": "Nam cho em bé cái kẹo"
+        },
+        {
+            "id": 552,
+            "label": "lệnh có đi",
+            "text": "có lệnh thì đi"
+        },
+        {
+            "id": 553,
+            "label": "bức này màu đẹp không",
+            "text": "bức này màu không đẹp"
+        },
+        {
+            "id": 554,
+            "label": "anh Đức anh tôi lấy làm vợ",
+            "text": "anh Đức này , anh lấy tôi làm vợ"
+        },
+        {
+            "id": 555,
+            "label": "mưa sớm nắng trưa là anh mình yêu",
+            "text": "sớm mưa trưa nắng là anh yêu mình"
+        },
+        {
+            "id": 556,
+            "label": "sách hay có người ta đọc thích",
+            "text": "sách có hay thì người ta mới thích đọc"
+        },
+        {
+            "id": 557,
+            "label": "miệng cười nói vậy mà bụng ông rối bời",
+            "text": "tuy miệng cười nói vậy mà bụng ông cũng rối bời lên"
+        },
+        {
+            "id": 558,
+            "label": "tôi tư tưởng tập trung được một giờ",
+            "text": "tôi chỉ tập trung tư tưởng được trong vòng một giờ đồng hồ"
+        },
+        {
+            "id": 559,
+            "label": "tiếng đại bác ùng oàng nghe thưa dần",
+            "text": "tiếng ùng oàng của đại bác nghe thưa dần"
+        },
+        {
+            "id": 560,
+            "label": "họp hoãn một tuần hay tháng",
+            "text": "cuộc họp hoãn lại một tuần hay tháng"
+        },
+        {
+            "id": 561,
+            "label": "Kasparov vô địch cờ vua thế giới giới năm 1988",
+            "text": "Kasparov là vô địch cờ vua thế giới giới năm 1988"
+        },
+        {
+            "id": 562,
+            "label": "xe lửa hay máy bay mình đi",
+            "text": "mình đi xe lửa hay máy bay"
+        },
+        {
+            "id": 563,
+            "label": "xe của tôi màu đỏ",
+            "text": "xe của tôi là cái màu đỏ ấy"
+        },
+        {
+            "id": 564,
+            "label": "sức mạnh tâm hồn lạ thay",
+            "text": "lạ thay sức mạnh của tâm hồn"
+        },
+        {
+            "id": 565,
+            "label": "bức tranh trên tường",
+            "text": "trên tường treo một bức tranh"
+        },
+        {
+            "id": 566,
+            "label": "mai kịp muốn máy bay",
+            "text": "mai muốn kịp thì đi máy bay"
+        },
+        {
+            "id": 567,
+            "label": "ông Chưởng phó cha tôi nay lên tướng",
+            "text": "ông Chưởng , phó của cha tôi , nay đã lên tướng"
+        },
+        {
+            "id": 568,
+            "label": "xa dòng sông sóng vỗ",
+            "text": "ngoài xa , dòng sông lào xào vỗ sóng"
+        },
+        {
+            "id": 569,
+            "label": "nói chưa cười đã người vô duyên",
+            "text": "chưa nói đã cười là người vô duyên"
+        },
+        {
+            "id": 570,
+            "label": "ra áo quần lấy",
+            "text": "ra lấy áo quần vào đi con"
+        },
+        {
+            "id": 571,
+            "label": "phích nước sôi có",
+            "text": "trong phích có nước sôi đấy"
+        },
+        {
+            "id": 572,
+            "label": "Chí Phèo đi nhận",
+            "text": "Chí Phèo nhận đi"
+        },
+        {
+            "id": 573,
+            "label": "ở Yên Bái hai người gặp",
+            "text": "hai người gặp nhau ở Yên Bái"
+        },
+        {
+            "id": 574,
+            "label": "Cụ Tú tóc bạc hết",
+            "text": "Cụ Tú tóc bạc hết rồi"
+        },
+        {
+            "id": 575,
+            "label": "nó ngạc nhiên biết không gì",
+            "text": "nó làm ngạc nhiên , không biết gì"
+        },
+        {
+            "id": 576,
+            "label": "ướt",
+            "text": "cho khỏi ướt"
+        },
+        {
+            "id": 577,
+            "label": "con áo quần cất mưa",
+            "text": "con phải cất áo quần vào kẻo mưa rồi"
+        },
+        {
+            "id": 578,
+            "label": "bé Nam trêu",
+            "text": "Nam trêu em bé"
+        },
+        {
+            "id": 579,
+            "label": "Bạn tên gì ?",
+            "text": "Bạn tên gì biểu cảm"
+        },
+        {
+            "id": 580,
+            "label": "Ai biết bơi ?",
+            "text": "Bơi biết ai biểu cảm"
+        },
+        {
+            "id": 581,
+            "label": "Tôi 19 tuổi .",
+            "text": "Tôi tuổi 19"
+        },
+        {
+            "id": 582,
+            "label": "Con gà ăn gì ?",
+            "text": "Con gà ăn gì biểu cảm"
+        },
+        {
+            "id": 583,
+            "label": "Mít thì ngọt .",
+            "text": "Mít ngọt"
+        },
+        {
+            "id": 584,
+            "label": "Ai mặc áo đỏ ?",
+            "text": "Áo đỏ ai"
+        },
+        {
+            "id": 585,
+            "label": "Tôi thích mèo .",
+            "text": "Tôi mèo thích"
+        },
+        {
+            "id": 586,
+            "label": "Con mèo ăn gì ?",
+            "text": "Mèo ăn gì biểu cảm"
+        },
+        {
+            "id": 587,
+            "label": "Con mèo ăn cá .",
+            "text": "Mèo ăn cá ."
+        },
+        {
+            "id": 588,
+            "label": "Tôi học lớp 12",
+            "text": "Tôi học lớp 12"
+        },
+        {
+            "id": 589,
+            "label": "Tôi học 4 môn .",
+            "text": "Tôi học môn 4"
+        },
+        {
+            "id": 590,
+            "label": "Con gì biết bay ?",
+            "text": "Động vật bay biết gì biểu cảm"
+        },
+        {
+            "id": 591,
+            "label": "Toà nhà cao , to .",
+            "text": "Toà nhà cao to"
+        },
+        {
+            "id": 592,
+            "label": "Bạn học lớp ?",
+            "text": "Bạn học lớp biểu cảm"
+        },
+        {
+            "id": 593,
+            "label": "Bạn học môn ?",
+            "text": "Bạn học môn biểu cảm"
+        },
+        {
+            "id": 594,
+            "label": "Tôi tên là Hiếu .",
+            "text": "Tôi tên Hiếu"
+        },
+        {
+            "id": 595,
+            "label": "Nhà ai gần biển ?",
+            "text": "Nhà gần biển ai biểu cảm"
+        },
+        {
+            "id": 596,
+            "label": "1 năm có mùa ?",
+            "text": "1 năm mùa biểu cảm"
+        },
+        {
+            "id": 597,
+            "label": "1 tuần có 7 ngày .",
+            "text": "1 tuần ngày 7"
+        },
+        {
+            "id": 598,
+            "label": "1 năm có 12 tháng",
+            "text": "1 năm tháng 12"
+        },
+        {
+            "id": 599,
+            "label": "Bây giờ là 7 giờ .",
+            "text": "Bây giờ 7 giờ"
+        },
+        {
+            "id": 600,
+            "label": "Ai là lớp trưởng ?",
+            "text": "Lớp trưởng ai"
+        },
+        {
+            "id": 601,
+            "label": "Bạn thích màu gì ?",
+            "text": "Bạn màu thích gì biểu cảm"
+        },
+        {
+            "id": 602,
+            "label": "Tôi thích môn Hoá .",
+            "text": "Tôi môn Hoá thích"
+        },
+        {
+            "id": 603,
+            "label": "1 năm có 12 tháng .",
+            "text": "1 năm 12 tháng"
+        },
+        {
+            "id": 604,
+            "label": "Nho có chua không ?",
+            "text": "Nho chua biểu cảm"
+        },
+        {
+            "id": 605,
+            "label": "Tôi sinh năm 1994 .",
+            "text": "Tôi sinh năm 1994"
+        },
+        {
+            "id": 606,
+            "label": "Đây là núi hay đồi ?",
+            "text": "Đây núi hay đồi ?"
+        },
+        {
+            "id": 607,
+            "label": "1 năm có tháng ?",
+            "text": "1 năm tháng biểu cảm"
+        },
+        {
+            "id": 608,
+            "label": "1 tuần có ngày ?",
+            "text": "1 tuần ngày biểu cảm"
+        },
+        {
+            "id": 609,
+            "label": "Bây giờ là giờ ?",
+            "text": "Bây giờ giờ biểu cảm"
+        },
+        {
+            "id": 610,
+            "label": "Ăn nho ?",
+            "text": "Nho ăn biểu cảm"
+        },
+        {
+            "id": 611,
+            "label": "Ăn cam ?",
+            "text": "Cam ăn biểu cảm"
+        },
+        {
+            "id": 612,
+            "label": "Cái này có màu ?",
+            "text": "Cái này màu biểu cảm"
+        },
+        {
+            "id": 613,
+            "label": "Bạn bao nhiêu tuổi ?",
+            "text": "Bạn tuổi biểu cảm"
+        },
+        {
+            "id": 614,
+            "label": "Bạn có xe máy không ?",
+            "text": "Bạn xe máy có biểu cảm"
+        },
+        {
+            "id": 615,
+            "label": "1 tháng có tuần ?",
+            "text": "1 tháng tuần biểu cảm"
+        },
+        {
+            "id": 616,
+            "label": "Ăn xoài ?",
+            "text": "Xoài ăn biểu cảm"
+        },
+        {
+            "id": 617,
+            "label": "Ba của tôi tốt bụng .",
+            "text": "Ba của tôi bụng tốt"
+        },
+        {
+            "id": 618,
+            "label": "Tôi không thích rắn .",
+            "text": "Tôi rắn không thích"
+        },
+        {
+            "id": 619,
+            "label": "Tôi không thích sông .",
+            "text": "Tôi sông không thích ."
+        },
+        {
+            "id": 620,
+            "label": "Bạn thích con vật gì ?",
+            "text": "Bạn động vật thích gì biểu cảm"
+        },
+        {
+            "id": 621,
+            "label": "Tôi không có bút chì .",
+            "text": "Tôi bút chì không"
+        },
+        {
+            "id": 622,
+            "label": "Bạn có bút chì không ?",
+            "text": "Bạn bút chì có biểu cảm"
+        },
+        {
+            "id": 623,
+            "label": "Nhà bạn có người ?",
+            "text": "Gia đình của bạn người biểu cảm"
+        },
+        {
+            "id": 624,
+            "label": "Bồ của tôi vừa người .",
+            "text": "Bồ của tôi mập vừa vừa cao vừa vừa"
+        },
+        {
+            "id": 625,
+            "label": "Bạn thích mùa gì nhất ?",
+            "text": "Bạn mùa thích nhất gì biểu cảm"
+        },
+        {
+            "id": 626,
+            "label": "Tôi thích con dê nhất .",
+            "text": "Tôi con dê thích nhất"
+        },
+        {
+            "id": 627,
+            "label": "Bạn thích trái cây gì ?",
+            "text": "Bạn trái cây thích gì biểu cảm"
+        },
+        {
+            "id": 628,
+            "label": "Bạn thích nhất màu gì ?",
+            "text": "Bạn màu thích nhất gì biểu cảm"
+        },
+        {
+            "id": 629,
+            "label": "Áo của bạn có màu ?",
+            "text": "Áo của bạn màu biểu cảm"
+        },
+        {
+            "id": 630,
+            "label": "Chị của bạn đẹp không ?",
+            "text": "Chị của bạn đẹp biểu cảm"
+        },
+        {
+            "id": 631,
+            "label": "Tôi thích mùa mưa nhất .",
+            "text": "Tôi mùa mưa thích nhất ."
+        },
+        {
+            "id": 632,
+            "label": "Miền Bắc VN có mùa ?",
+            "text": "Miền Bắc Việt Nam mùa biểu cảm"
+        },
+        {
+            "id": 633,
+            "label": "Ở sông có cá , tôm , cua .",
+            "text": "Cá tôm cua sông có"
+        },
+        {
+            "id": 634,
+            "label": "Nhà bạn có nuôi con gì ?",
+            "text": "Nhà của bạn động vật có gì biểu cảm"
+        },
+        {
+            "id": 635,
+            "label": "Con vật gì sống ở sông ?",
+            "text": "Sống ở sông động vật gì biểu cảm"
+        },
+        {
+            "id": 636,
+            "label": "Con vật gì sống ở rừng ?",
+            "text": "Rừng động vật có gì biểu cảm"
+        },
+        {
+            "id": 637,
+            "label": "Bạn không thích màu gì ?",
+            "text": "Bạn màu không thích gì biểu cảm"
+        },
+        {
+            "id": 638,
+            "label": "Bà nội của tôi già rồi .",
+            "text": "Bà nội của tôi già rồi"
+        },
+        {
+            "id": 639,
+            "label": "Bạn sinh năm bao nhiêu ?",
+            "text": "Bạn sinh năm biểu cảm"
+        },
+        {
+            "id": 640,
+            "label": "Ai thích nhìn thác nước ?",
+            "text": "Thác nước nhìn thích ai biểu cảm"
+        },
+        {
+            "id": 641,
+            "label": "1 giờ có phút ?",
+            "text": "1 giờ phút biểu cảm"
+        },
+        {
+            "id": 642,
+            "label": "1 ngày có bao nhiêu giờ ?",
+            "text": "1 ngày giờ biểu cảm"
+        },
+        {
+            "id": 643,
+            "label": "Gia đình tôi có 3 người .",
+            "text": "Gia đình của tôi người 3"
+        },
+        {
+            "id": 644,
+            "label": "Việt Nam có lũ lụt không ?",
+            "text": "Việt Nam lũ lụt có biểu cảm"
+        },
+        {
+            "id": 645,
+            "label": "Trường của tôi có 3 tầng .",
+            "text": "Trường của tôi tầng 3"
+        },
+        {
+            "id": 646,
+            "label": "1 phút có giây ?",
+            "text": "1 phút giây biểu cảm"
+        },
+        {
+            "id": 647,
+            "label": "Tôi thích dâu , sầu riêng .",
+            "text": "Tôi dâu sầu riêng thích"
+        },
+        {
+            "id": 648,
+            "label": "Tôi thích nhất màu trắng .",
+            "text": "Tôi màu trắng thích nhất"
+        },
+        {
+            "id": 649,
+            "label": "Ông ngoại bạn khoẻ không ?",
+            "text": "Ông ngoại của bạn khoẻ biểu cảm"
+        },
+        {
+            "id": 650,
+            "label": "Anh của bạn có cao không ?",
+            "text": "Anh của bạn cao ? biểu cảm"
+        },
+        {
+            "id": 651,
+            "label": "Nhà tôi có nuôi chó , mèo .",
+            "text": "Nhà của tôi mèo chó có"
+        },
+        {
+            "id": 652,
+            "label": "Bạn biết lái xe hơi không ?",
+            "text": "Bạn lái xe hơi biết biểu cảm"
+        },
+        {
+            "id": 653,
+            "label": "Con vật gì sống dưới biển ?",
+            "text": "Sống ở biển động vật gì biểu cảm"
+        },
+        {
+            "id": 654,
+            "label": "Bạn thích nhất con vật gì ?",
+            "text": "Bạn động vật thích nhất gì biểu cảm"
+        },
+        {
+            "id": 655,
+            "label": "1 tháng có bao nhiêu ngày ?",
+            "text": "1 tháng ngày biểu cảm"
+        },
+        {
+            "id": 656,
+            "label": "Bạn thích sầu riêng không ?",
+            "text": "Bạn sầu riêng thích biểu cảm"
+        },
+        {
+            "id": 657,
+            "label": "Tôi có 1 chiếc áo đỏ nhạt .",
+            "text": "Tôi áo đỏ nhạt 1 có"
+        },
+        {
+            "id": 658,
+            "label": "Chú của tôi 50 tuổi , thấp .",
+            "text": "Chú của tôi tuổi 50 thấp"
+        },
+        {
+            "id": 659,
+            "label": "Tên ký hiệu của bạn là gì ?",
+            "text": "Tên ký hiệu của bạn gì biểu cảm"
+        },
+        {
+            "id": 660,
+            "label": "Tên ký hiệu của bạn là gì ?",
+            "text": "Bạn tên ký hiệu gì biểu cảm"
+        },
+        {
+            "id": 661,
+            "label": "Bạn có thích xe hơi không ?",
+            "text": "Bạn xe hơi thích biểu cảm"
+        },
+        {
+            "id": 662,
+            "label": "Việt Nam có động đất không ?",
+            "text": "Việt Nam động đất có biểu cảm ."
+        },
+        {
+            "id": 663,
+            "label": "Ở biển có cá heo và cá mập .",
+            "text": "Cá heo cá mập biển có"
+        },
+        {
+            "id": 664,
+            "label": "Bạn không thích con vật gì ?",
+            "text": "Bạn động vật không thích gì biểu cảm"
+        },
+        {
+            "id": 665,
+            "label": "1 tháng có 30 hoặc 31 ngày .",
+            "text": "1 tháng ngày 30 hoặc 31"
+        },
+        {
+            "id": 666,
+            "label": "Bạn của bạn bao nhiêu tuổi ?",
+            "text": "Ba của bạn tuổi biểu cảm"
+        },
+        {
+            "id": 667,
+            "label": "Nhà của bạn có xe hơi không ?",
+            "text": "Nhà của bạn xe hơi có biểu cảm"
+        },
+        {
+            "id": 668,
+            "label": "Nhà của bạn có xe đạp không ?",
+            "text": "Nhà của bạn xe đạp có biểu cảm"
+        },
+        {
+            "id": 669,
+            "label": "Bạn thích chạy xe đạp không ?",
+            "text": "Bạn chạy xe đạp thích biểu cảm"
+        },
+        {
+            "id": 670,
+            "label": "Tôi không thích màu tím đậm .",
+            "text": "Tôi màu tím đậm không thích biểu cảm"
+        },
+        {
+            "id": 671,
+            "label": "Áo của ai có nhiều màu nhất ?",
+            "text": "Áo màu nhiều nhất ai biểu cảm"
+        },
+        {
+            "id": 672,
+            "label": "Mẹ tôi 50 tuổi , đẹp và hiền .",
+            "text": "Mẹ của tôi tuổi 50 đẹp hiền"
+        },
+        {
+            "id": 673,
+            "label": "Người ngoài kia là lớp trưởng",
+            "text": "Ngoài kia lớp trưởng"
+        },
+        {
+            "id": 674,
+            "label": "Miền Nam Việt Nam có mùa ?",
+            "text": "miền Nam VN mùa"
+        },
+        {
+            "id": 675,
+            "label": "Bạn thích bơi ở sông hay biển ?",
+            "text": "Bạn thích bơi ở sông hay ở biển biểu cảm"
+        },
+        {
+            "id": 676,
+            "label": "Tôi không thích màu cam , hồng .",
+            "text": "Tôi màu cam màu hồng không thích biểu cảm"
+        },
+        {
+            "id": 677,
+            "label": "Trong nhà , bạn thương ai nhất ?",
+            "text": "Trong gia đình bạn thương nhất ai biểu cảm"
+        },
+        {
+            "id": 678,
+            "label": "bạn thích mùa mưa nhất ?",
+            "text": "Bạn mùa mưa thích nhất biểu cảm"
+        },
+        {
+            "id": 679,
+            "label": "Có rừng , cây , suối và động vật .",
+            "text": "Rừng cây suối và động vật có"
+        },
+        {
+            "id": 680,
+            "label": "Em gái của tôi đã lập gia đình .",
+            "text": "Em gái của tôi lập gia đình đã"
+        },
+        {
+            "id": 681,
+            "label": "Bạn thích học môn học nào nhất ?",
+            "text": "Bạn học môn thích gì biểu cảm"
+        },
+        {
+            "id": 682,
+            "label": "Tôi có 10 cây bút chì màu vàng .",
+            "text": "Tôi bút chì màu vàng 10 có"
+        },
+        {
+            "id": 683,
+            "label": "Nhà của bạn có bao nhiêu xe máy ?",
+            "text": "Nhà của bạn xe máy biểu cảm"
+        },
+        {
+            "id": 684,
+            "label": "Có đại dương , sông suối và ao cá .",
+            "text": "Đại dương sông suối và ao cá có ."
+        },
+        {
+            "id": 685,
+            "label": "1 năm có 4 mùa :",
+            "text": "1 năm mùa 4 Xuân Hạ Thu Đông ."
+        },
+        {
+            "id": 686,
+            "label": "Tôi không có xe máy nhưng có xe đạp .",
+            "text": "Tôi xe máy không xe đạp có ."
+        },
+        {
+            "id": 687,
+            "label": "Tôi không thích sầu riêng vì nó hôi .",
+            "text": "Tôi sầu riêng không thích vì nó hôi biểu cảm"
+        },
+        {
+            "id": 688,
+            "label": "Áo của tôi có 3 màu :",
+            "text": "Áo của tôi màu 3 đỏ đen trắng"
+        },
+        {
+            "id": 689,
+            "label": "Ở VN , lũ lụt xảy ra nhiều nhất ở đâu ?",
+            "text": "Việt Nam lũ lụt nhiều nhất ở đâu biểu cảm"
+        },
+        {
+            "id": 690,
+            "label": "Tôi biết lái xe hơi nhưng không có xe .",
+            "text": "Tôi lái biết nhưng xe hơi không"
+        },
+        {
+            "id": 691,
+            "label": "Tôi học 5 môn :",
+            "text": "Tôi học môn 5 : Toán Văn Lý Hoá Sinh"
+        },
+        {
+            "id": 692,
+            "label": "Ngày mai thứ 3 ngày 23 tháng 7 năm 2013",
+            "text": "Ngày mai thứ 3 ngày 23 tháng 7 năm 2013"
+        },
+        {
+            "id": 693,
+            "label": "Hôm nay thứ 2 ngày 22 tháng 7 năm 2013 .",
+            "text": "Hôm nay thứ 2 ngày 22 tháng 7 năm 2013"
+        },
+        {
+            "id": 694,
+            "label": "Gia đình tôi có 3 người :",
+            "text": "Gia đình của tôi người 3 ba mẹ tôi"
+        },
+        {
+            "id": 695,
+            "label": "Bé trai tên An 5 tuổi và lớn chừng này .",
+            "text": "Bé An con trai tuổi 5 lớn tới đây"
+        },
+        {
+            "id": 696,
+            "label": "Tuần trước , bạn đi từ SG đến HN bằng gì ?",
+            "text": "Tuần trước bạn Sài Gòn Hà Nội bằng gì ?"
+        },
+        {
+            "id": 697,
+            "label": "Trong rừng có cọp , sư tử và hươu cao cổ .",
+            "text": "Cọp sư tử hươu cao cổ rừng có"
+        },
+        {
+            "id": 698,
+            "label": "Miền Nam VN có 2 mùa : mùa khô và mùa mưa .",
+            "text": "Miền Nam Việt Nam mùa 2 khô mưa"
+        },
+        {
+            "id": 699,
+            "label": "Miền Bắc VN có 4 mùa :",
+            "text": "Miền Bắc Việt Nam mùa 4 Xuân Hạ Thu Đông"
+        },
+        {
+            "id": 700,
+            "label": "Người yêu của chị tôi xấu , dữ , cao và mập .",
+            "text": "Chị của tôi bồ của xấu dữ cao mập"
+        },
+        {
+            "id": 701,
+            "label": "Hôm qua chủ nhật ngày 21 tháng 7 năm 2013 .",
+            "text": "Hôm qua chủ nhật ngày 21 tháng 7 năm 2013"
+        },
+        {
+            "id": 702,
+            "label": "Hiệu trưởng trường tôi 50 tuổi , hiền , tốt .",
+            "text": "Hiệu trưởng của tôi nữ tuổi 50 hiền tốt"
+        },
+        {
+            "id": 703,
+            "label": "Dưa hấu có vỏ xanh lá , ruột đỏ , hột nhiều .",
+            "text": "Dưa hấu vỏ màu xanh lá cây bên trong màu đỏ hột nhiều"
+        },
+        {
+            "id": 704,
+            "label": "Tôi thích mùa mưa nhất vì thời tiết mát mẻ .",
+            "text": "Tôi mùa mưa thích nhất vì thời tiết mát mẻ"
+        },
+        {
+            "id": 705,
+            "label": "Lớp của tôi có 50 hs : 1 lớp trưởng và 2 lớp phó .",
+            "text": "Lớp của tôi học sinh 50 lớp trưởng 1 lớp phó 2"
+        },
+        {
+            "id": 706,
+            "label": "Tôi thích xe hơi .",
+            "text": "Tôi xe hơi thích ."
+        },
+        {
+            "id": 707,
+            "label": "Trường của tôi có 1 hiệu trưởng , 2 hiệu phó , 20 giáo viên và 200 học sinh .",
+            "text": "Trường của tôi hiệu trưởng 1 hiệu phó 2 giáo viên 20 học sinh 200"
+        },
+        {
+            "id": 708,
+            "label": "tôi sẽ đến thăm nhà bạn",
+            "text": "tôi bạn nhà thăm"
+        },
+        {
+            "id": 709,
+            "label": "Tôi mua 3 sách",
+            "text": "Tôi sách 3 mua"
+        },
+        {
+            "id": 710,
+            "label": "Tôi học lớp 4",
+            "text": "Tôi lớp 4 học"
+        },
+        {
+            "id": 711,
+            "label": "Tôi thích màu đỏ",
+            "text": "Tôi màu đỏ thích"
+        },
+        {
+            "id": 712,
+            "label": "Tôi không thích màu đỏ",
+            "text": "Tôi màu đỏ thích không"
+        },
+        {
+            "id": 713,
+            "label": "Tôi không ăn cơm",
+            "text": "Tôi ăn cơm không"
+        },
+        {
+            "id": 714,
+            "label": "Mấy giờ ?",
+            "text": "Giờ Mấy ?"
+        },
+        {
+            "id": 715,
+            "label": "Gia đình bạn có bao nhiêu người ?",
+            "text": "Bạn gia đình người bao nhiêu ?"
+        },
+        {
+            "id": 716,
+            "label": "Nhà bạn ở đâu ?",
+            "text": "Bạn nhà ở đâu ?"
+        },
+        {
+            "id": 717,
+            "label": "Bạn tên là gì ?",
+            "text": "Bạn tên gì ?"
+        },
+        {
+            "id": 718,
+            "label": "Mẹ em làm gì ?",
+            "text": "Mẹ em làm gì ?"
+        },
+        {
+            "id": 719,
+            "label": "Tôi sẽ đến thăm anh",
+            "text": "Tôi anh thăm"
+        },
+        {
+            "id": 720,
+            "label": "Ai nghỉ học hôm qua",
+            "text": "Hôm qua nghỉ học ai ?"
+        },
+        {
+            "id": 721,
+            "label": "Bạn bao nhiêu tuổi ?",
+            "text": "Bạn tuổi bao nhiêu ?"
+        },
+        {
+            "id": 722,
+            "label": "Bạn có khoẻ không ?",
+            "text": "Bạn khoẻ không ?"
+        },
+        {
+            "id": 723,
+            "label": "Bạn thích màu gì ?",
+            "text": "Bạn màu thích gì ?"
+        },
+        {
+            "id": 724,
+            "label": "Đó là những ai ?",
+            "text": "Ai ?"
+        },
+        {
+            "id": 725,
+            "label": "Bố của bạn bao nhiêu tuổi ?",
+            "text": "Bạn bố của tuổi bao nhiêu ?"
+        },
+        {
+            "id": 726,
+            "label": "Nhà bạn có ti vi không ?",
+            "text": "Bạn nhà ti vi có không ?"
+        },
+        {
+            "id": 727,
+            "label": "Bạn là sinh viên phải không ?",
+            "text": "Bạn sinh viên đúng không ?"
+        },
+        {
+            "id": 728,
+            "label": "Hôm nay là ngày bao nhiêu ?",
+            "text": "Hôm nay ngày bao nhiêu ?"
+        },
+        {
+            "id": 729,
+            "label": "Bây giờ là giờ",
+            "text": "Bây giờ giờ ?"
+        },
+        {
+            "id": 730,
+            "label": "Bây giờ là 12 giờ",
+            "text": "Bây giờ giờ 12"
+        },
+        {
+            "id": 731,
+            "label": "Hôm nay thời tiết ?",
+            "text": "Thời tiết hôm nay ?"
+        },
+        {
+            "id": 732,
+            "label": "Hôm nay trời ?",
+            "text": "Trời hôm nay ?"
+        },
+        {
+            "id": 733,
+            "label": "Bạn thích mùa nào ?",
+            "text": "Bạn mùa thích gì ?"
+        },
+        {
+            "id": 734,
+            "label": "Bạn thích hoa gì ?",
+            "text": "Bạn hoa thích gì ?"
+        },
+        {
+            "id": 735,
+            "label": "Bạn thích hoa hồng màu gì ?",
+            "text": "Bạn hoa hồng màu thích gì ?"
+        },
+        {
+            "id": 736,
+            "label": "Bạn thích hoa huệ không ?",
+            "text": "Bạn hoa huệ thích không ?"
+        },
+        {
+            "id": 737,
+            "label": "Bạn thích ăn quả gì ?",
+            "text": "Bạn quả thích ăn gì ?"
+        },
+        {
+            "id": 738,
+            "label": "Bạn thích ăn dưa hấu không ?",
+            "text": "Bạn dưa hấu thích ăn không ?"
+        },
+        {
+            "id": 739,
+            "label": "Bạn thích con vật gì ?",
+            "text": "Bạn con vật thích gì ?"
+        },
+        {
+            "id": 740,
+            "label": "Nhà bạn có nuôi mào không ?",
+            "text": "Bạn nhà mèo có không ?"
+        },
+        {
+            "id": 741,
+            "label": "Con khỉ sống ở đâu ?",
+            "text": "Con khỉ sống ở đâu ?"
+        },
+        {
+            "id": 742,
+            "label": "Con khỉ sống ở rừng",
+            "text": "Con khỉ rừng sống"
+        },
+        {
+            "id": 743,
+            "label": "Con thỏ thích ăn gì ?",
+            "text": "Con thỏ ăn thích gì ?"
+        },
+        {
+            "id": 744,
+            "label": "Bạn học lớp ?",
+            "text": "Bạn lớp học ?"
+        },
+        {
+            "id": 745,
+            "label": "Bạn thích học môn gì ?",
+            "text": "Bạn môn học thích gì ?"
+        },
+        {
+            "id": 746,
+            "label": "Bạn đi học bằng phương tiện gì ?",
+            "text": "Bạn đi học bằng gì ?"
+        },
+        {
+            "id": 747,
+            "label": "Đi xe buýt về quê bạn hết bao nhiêu tiền ?",
+            "text": "Bạn về quê xe buýt bằng tiền bao nhiêu ?"
+        },
+        {
+            "id": 748,
+            "label": "Bạn thích đi hoc bằng xe buýt hay xe đạp ?",
+            "text": "Bạn đi học xe buýt xe đạp thích hay ?"
+        },
+        {
+            "id": 749,
+            "label": "Đây là ai ?",
+            "text": "Ai ?"
+        },
+        {
+            "id": 750,
+            "label": "Tôi thích học môn Toán",
+            "text": "Tôi môn Toán thích"
+        },
+        {
+            "id": 751,
+            "label": "Tôi học lớp 10",
+            "text": "Tôi lớp 10"
+        },
+        {
+            "id": 752,
+            "label": "Con thỏ thích ăn cà rốt",
+            "text": "Con thỏ cà rốt thích"
+        },
+        {
+            "id": 753,
+            "label": "Tôi thích con mèo",
+            "text": "Tôi con mèo thích"
+        },
+        {
+            "id": 754,
+            "label": "Vì dưa hấu ngọt và mát",
+            "text": "Vì dưa hấu ngọt mát"
+        },
+        {
+            "id": 755,
+            "label": "Tôi thích ăn cam",
+            "text": "Tôi cam thích ăn"
+        },
+        {
+            "id": 756,
+            "label": "Tôi thích hoa cúc",
+            "text": "Tôi hoa cúc thích"
+        },
+        {
+            "id": 757,
+            "label": "Tôi thích hoa hồng màu vàng",
+            "text": "Tôi hoa hồng màu vàng thích"
+        },
+        {
+            "id": 758,
+            "label": "Tôi thích hoa hồng",
+            "text": "Tôi hoa hồng thích"
+        },
+        {
+            "id": 759,
+            "label": "Tôi thích mùa thu",
+            "text": "Tôi mùa thu thích"
+        },
+        {
+            "id": 760,
+            "label": "Hôm nay thời tiết mát",
+            "text": "Thời tiết hôm nay mát"
+        },
+        {
+            "id": 761,
+            "label": "Hôm nay là ngày 15 tháng 12 năm 2015",
+            "text": "Hôm nay ngày 15 tháng 12 năm 2015"
+        },
+        {
+            "id": 762,
+            "label": "Tôi thích màu trắng",
+            "text": "Tôi màu trắng thích"
+        },
+        {
+            "id": 763,
+            "label": "\" Tôi thích mặc áo phông , quần bò \"",
+            "text": "Tôi áo phông quần bò thích"
+        },
+        {
+            "id": 764,
+            "label": "Tôi ở Hà Nội",
+            "text": "Tôi Hà Nội"
+        },
+        {
+            "id": 765,
+            "label": "Tôi khoẻ",
+            "text": "Tôi khoẻ"
+        },
+        {
+            "id": 766,
+            "label": "Gia đình tôi có 4 người",
+            "text": "Tôi gia đình người 4"
+        },
+        {
+            "id": 767,
+            "label": "\" Bố tôi , mẹ tôi , anh trai và tôi \"",
+            "text": "Bố mẹ anh trai tôi"
+        },
+        {
+            "id": 768,
+            "label": "Bố của tôi 50 tuổi",
+            "text": "Tôi bố của 50 tuổi"
+        },
+        {
+            "id": 769,
+            "label": "Tôi là bác sĩ",
+            "text": "Tôi bác sĩ"
+        },
+        {
+            "id": 770,
+            "label": "Tôi là giáo viên",
+            "text": "Tôi giáo viên"
+        },
+        {
+            "id": 771,
+            "label": "Tôi thích làm công an",
+            "text": "Tôi công an thích"
+        },
+        {
+            "id": 772,
+            "label": "Tôi học trường THPT Quang Trung",
+            "text": "Tôi trường THPT Quang Trung học"
+        },
+        {
+            "id": 773,
+            "label": "Đây là Vịnh Hạ Long",
+            "text": "Vịnh Hạ Long"
+        },
+        {
+            "id": 774,
+            "label": "Đây là Bác Hồ",
+            "text": "Bác Hồ"
+        },
+        {
+            "id": 775,
+            "label": "Bạn thích đi bằng phương tiện gì ?",
+            "text": "Bạn phương tiện đi thích gì ?"
+        },
+        {
+            "id": 776,
+            "label": "Tôi thích đi bằng máy bay",
+            "text": "Tôi máy bay thích"
+        },
+        {
+            "id": 777,
+            "label": "Tôi đi học bằng xe buýt",
+            "text": "Tôi xe buýt đi học"
+        },
+        {
+            "id": 778,
+            "label": "Bạn học trường nào ?",
+            "text": "Bạn trường học nào ?"
+        },
+        {
+            "id": 779,
+            "label": "Ăn cơm không ?",
+            "text": "Cơm ?"
+        },
+        {
+            "id": 780,
+            "label": "Biết không ?",
+            "text": "Biết ?"
+        },
+        {
+            "id": 781,
+            "label": "\" , nóng quá \"",
+            "text": "Nóng"
+        },
+        {
+            "id": 782,
+            "label": "Tôi 26 tuổi",
+            "text": "Tôi tuổi 26"
+        },
+        {
+            "id": 783,
+            "label": "Đây là ai ?",
+            "text": "Ai ?"
+        },
+        {
+            "id": 784,
+            "label": "Đó là chú của tôi",
+            "text": "Chú"
+        },
+        {
+            "id": 785,
+            "label": "Tôi thích đi học bằng xe đạp",
+            "text": "Tôi đi học xe đạp thích"
+        },
+        {
+            "id": 786,
+            "label": "Bạn thích mặc trang phục gì ?",
+            "text": "Bạn quần áo mặc thích gì ?"
+        }
+    ],
+    "val": [
+        {
+            "id": 579,
+            "label": "anh ấy giỏi hơn",
+            "text": "anh ấy giỏi hơn"
+        },
+        {
+            "id": 580,
+            "label": "bạn trật tự",
+            "text": "bạn giữ trật tự"
+        },
+        {
+            "id": 581,
+            "label": "Việt Minh lên thì dân khổ đỡ",
+            "text": "Việt Minh mà lên được thì dân đỡ khổ ông"
+        },
+        {
+            "id": 582,
+            "label": "mày mồm câm",
+            "text": "mày có câm cái mồm đi không"
+        },
+        {
+            "id": 583,
+            "label": "bước với sách tay ôm thế kia",
+            "text": "bước được với chồng sách ôm trên tay thế kia"
+        },
+        {
+            "id": 584,
+            "label": "ở đây hồ bơi làm tuyệt",
+            "text": "ở đây mà làm hồ bơi thì tuyệt"
+        },
+        {
+            "id": 585,
+            "label": "tội này tù ba năm ít nhất",
+            "text": "tội này ít nhất là ba năm tù"
+        },
+        {
+            "id": 586,
+            "label": "đòn tre thanh tre liếp nứa cầu bắc bộ đội mở đường tiến lên Việt Nam tiến",
+            "text": "đòn tre , thanh tre , liếp nứa đã bắc qua cầu , đã mở đường cho anh bộ đội tiến lên , nước Việt Nam tiến lên"
+        },
+        {
+            "id": 587,
+            "label": "Cún người ta bắt rồi",
+            "text": "con Cún thì người ta bắt rồi"
+        },
+        {
+            "id": 588,
+            "label": "cuốn truyện này hay không",
+            "text": "cuốn truyện này không hay"
+        },
+        {
+            "id": 589,
+            "label": "ô hay mẹ con đâu",
+            "text": "ô hay , mẹ con nó đi đâu rồi"
+        },
+        {
+            "id": 591,
+            "label": "vì mưa cháu nhà trẻ đi không",
+            "text": "vì trời mưa , cháu không đi nhà trẻ"
+        },
+        {
+            "id": 592,
+            "label": "mưa lâm thâm",
+            "text": "trời thì mưa lâm thâm"
+        },
+        {
+            "id": 593,
+            "label": "tạp chí trên cuốn Chí Phèo",
+            "text": "chồng tạp chí ở trên cuốn Chí Phèo"
+        },
+        {
+            "id": 594,
+            "label": "ta cải tiến thao tác phải để nâng cao năng suất",
+            "text": "ta phải cải tiến thao tác để nâng cao năng suất"
+        },
+        {
+            "id": 595,
+            "label": "đối với gia đình vợ Thứ thân mật cố ý không",
+            "text": "mặc dù vậy đối với gia đình vợ , Thứ vẫn cố ý không thân mật"
+        },
+        {
+            "id": 596,
+            "label": "đã bấy lâu nay bác tới nhà",
+            "text": "đã bấy lâu nay bác tới nhà"
+        },
+        {
+            "id": 597,
+            "label": "Hoàng Văn Thiện cho biết buổi sáng chủ Trung Quốc thùng catton mang lọ nhựa hoá chất đựng hoà vào bể dã chiến phủ bạt đầy nước",
+            "text": "Ông Hoàng Văn Thiện cho biết , mỗi buổi sáng , ông chủ người Trung Quốc mang thùng catton đựng đầy lọ nhựa hoá chất để hoà vào bể dã chiến phủ bạt đầy nước"
+        },
+        {
+            "id": 598,
+            "label": "lá rụng đừng",
+            "text": "lá , đừng rụng nữa"
+        },
+        {
+            "id": 599,
+            "label": "ăn nhiều sinh bệnh",
+            "text": "ăn nhiều quá thì mới sinh bệnh chứ"
+        },
+        {
+            "id": 600,
+            "label": "nho thích giáo viên bao nhiêu",
+            "text": "bao nhiêu giáo viên thích nho"
+        },
+        {
+            "id": 601,
+            "label": "ô tô chạy đi chạy như con thoi máy bay phản lực rít và len lỏi máy bay chiếc xe đạp ba bánh có",
+            "text": "chiếc ô tô chạy đi , chạy lại như con thoi , máy bay phản lực rít ào ào và len lỏi giữa tất cả ô tô , máy bay ấy có một chiếc xe đạp ba bánh"
+        },
+        {
+            "id": 602,
+            "label": "muốn gì thì được rồi",
+            "text": "muốn gì thì đã được rồi"
+        },
+        {
+            "id": 603,
+            "label": "công việc thì tôi vẫn quan tâm",
+            "text": "công việc , thì tôi vẫn quan tâm đấy chứ"
+        },
+        {
+            "id": 604,
+            "label": "người bức này vẽ là Đức",
+            "text": "người vẽ bức này là ông Đức"
+        },
+        {
+            "id": 605,
+            "label": "chủ nhật tôi nhạc nghe",
+            "text": "vào ngày chủ nhật tôi chỉ nghe nhạc"
+        },
+        {
+            "id": 606,
+            "label": "con trâu đi trước cày sau thì lạc hậu còn",
+            "text": "con trâu đi trước cái cày theo sau thì còn lạc hậu"
+        },
+        {
+            "id": 607,
+            "label": "oanh liệt chiến đấu giòn giã thắng lợi sản xuất xây dựng khoẻ nhân dân văn nghệ yêu quý bởi vì văn nghệ tinh hoa cuộc sống là sức mạnh vũ khí chiến đấu chiến thắng",
+            "text": "càng chiến đấu oanh liệt , càng thắng lợi giòn giã , càng sản xuất càng xây dựng khoẻ bao nhiêu , nhân dân ta càng yêu quý văn nghệ bấy nhiêu , bởi vì văn nghệ là tinh hoa của cuộc sống , là một sức mạnh , là một vũ khí chiến đấu và để chiến thắng"
+        },
+        {
+            "id": 608,
+            "label": "ăn gì to lớn đẫy đà",
+            "text": "ăn gì to lớn đẫy đà"
+        },
+        {
+            "id": 609,
+            "label": "gì chứ cơm hai bữa có",
+            "text": "gì chứ cơm ngày hai bữa thì vẫn có"
+        },
+        {
+            "id": 610,
+            "label": "nó thi hỏng vì đề khó",
+            "text": "nó hỏng kì thi này vì đề thi khó quá"
+        },
+        {
+            "id": 611,
+            "label": "cành tre gió đánh",
+            "text": "gió đánh cành tre"
+        },
+        {
+            "id": 612,
+            "label": "đau quá",
+            "text": "tôi đau quá"
+        },
+        {
+            "id": 613,
+            "label": "một người như anh thì ai mến chả",
+            "text": "một người như anh thì ai chả mến"
+        },
+        {
+            "id": 614,
+            "label": "nước giềng này trong gần nhà",
+            "text": "nước giềng này trong mà lại gần nhà"
+        },
+        {
+            "id": 615,
+            "label": "văn có tác phẩm giá trị có",
+            "text": "văn có hay tác phẩm mới có giá trị"
+        },
+        {
+            "id": 616,
+            "label": "người một vẻ",
+            "text": "người một vẻ"
+        },
+        {
+            "id": 617,
+            "label": "ngoài đình trống thúc mõ khua tù và liên thanh rúc",
+            "text": "ngoài đình , trống lại thúc , mõ lại khua , tù và rúc liên thanh bất chỉ"
+        },
+        {
+            "id": 618,
+            "label": "nó anh cấm",
+            "text": "nó cấm anh"
+        },
+        {
+            "id": 619,
+            "label": "cơm dọn xong",
+            "text": "cơm đã dọn xong"
+        },
+        {
+            "id": 620,
+            "label": "ở đây lạ trước quen sau",
+            "text": "ở đây trước lạ sau quen"
+        },
+        {
+            "id": 621,
+            "label": "người đứng dậy",
+            "text": "người đứng dậy đi"
+        },
+        {
+            "id": 622,
+            "label": "phen này Tư hả hê",
+            "text": "phen này , ông Tư ắt là hả hê"
+        },
+        {
+            "id": 623,
+            "label": "ngừng ngay việc đáng đánh đòn",
+            "text": "con hãy ngừng cái việc đáng đánh đòn ấy"
+        },
+        {
+            "id": 624,
+            "label": "khôn sống mống chết là xã hội thực tế",
+            "text": "khôn sống mống chết là một thực tế xã hội"
+        },
+        {
+            "id": 625,
+            "label": "nó cái màn làm rách",
+            "text": "nó làm rách cái màn mất rồi"
+        },
+        {
+            "id": 626,
+            "label": "gà ông nói vịt bà nói",
+            "text": "ông thì nói gà , bà thì nói vịt"
+        },
+        {
+            "id": 627,
+            "label": "nó nhiều bài phải giải",
+            "text": "nó phải giải nhiều bài"
+        },
+        {
+            "id": 628,
+            "label": "Nam học sinh giỏi",
+            "text": "Nam là học sinh giỏi"
+        },
+        {
+            "id": 629,
+            "label": "cần bao nhiêu cũng có",
+            "text": "cần bao nhiêu cũng có"
+        },
+        {
+            "id": 630,
+            "label": "ở đây vui quá",
+            "text": "ở đây vui quá"
+        },
+        {
+            "id": 631,
+            "label": "ngày thương lái 6 tấn chuối lùn xanh mua Quảng Ngãi hoá chất ngâm trước đóng gói tiêu thụ",
+            "text": "ngày thương lái mua 6 tấn chuối lùn còn xanh ở Quảng Ngãi , ngâm vào bể pha hoá chất trước khi đóng gói đưa đi tiêu thụ"
+        },
+        {
+            "id": 632,
+            "label": "đoạn nói Ngũ Viên đăm cổ tự sát",
+            "text": "nói đoạn , Ngũ Viên liền đăm cổ tự sát"
+        },
+        {
+            "id": 633,
+            "label": "ấm no",
+            "text": "muốn ấm no thì phải"
+        },
+        {
+            "id": 634,
+            "label": "chìa khoá này cửa mở không được",
+            "text": "chìa khoá này không mở được cửa"
+        },
+        {
+            "id": 635,
+            "label": "ta điều muốn không làm cho người khác nên không",
+            "text": "điều ta không muốn thì không nên làm cho người khác"
+        },
+        {
+            "id": 636,
+            "label": "anh nghi ngờ đừng anh ấy",
+            "text": "anh cũng đừng nghi ngờ gì anh ấy"
+        },
+        {
+            "id": 637,
+            "label": "nỗi niềm xưa thương nghĩ",
+            "text": "nỗi niềm xưa , nghĩ mà thương"
+        },
+        {
+            "id": 638,
+            "label": "việc này làm được ai",
+            "text": "ai làm được việc này"
+        },
+        {
+            "id": 639,
+            "label": "chồng chị Nguyễn Văn Dậu tuy mới 26 tuổi nhưng học nghề làm ruộng năm mười bảy",
+            "text": "chồng chị - anh Nguyễn Văn Dậu - tuy mới 26 tuổi nhưng đã học nghề làm ruộng đến mười bảy năm"
+        },
+        {
+            "id": 640,
+            "label": "mưa trắng nắng đen",
+            "text": "mưa trắng , nắng đen"
+        },
+        {
+            "id": 641,
+            "label": "của đau con xót",
+            "text": "của đau , con xót"
+        },
+        {
+            "id": 642,
+            "label": "trong sân chạy xe không",
+            "text": "không chạy xe trong sân"
+        },
+        {
+            "id": 643,
+            "label": "Nam trúng cử chắc chắn",
+            "text": "Nam chắc chắn sẽ trúng cử"
+        },
+        {
+            "id": 644,
+            "label": "cái này giá chỉ năm ngàn",
+            "text": "cái này giá chỉ năm ngàn thì nhiều"
+        },
+        {
+            "id": 645,
+            "label": "Hoàng sách một lấy bìa dày da gáy đem",
+            "text": "chị Hoàng chạy lại buýp phê lấy một quyển sách bìa dày gáy da đem lại"
+        },
+        {
+            "id": 646,
+            "label": "không phải thơ nào cách mạng cả nhưng có cách mạng thì có thơ",
+            "text": "đương nhiên , không phải thơ nào cũng cách mạng , nhưng có cách mạng thì có thơ"
+        },
+        {
+            "id": 647,
+            "label": "gà ông nói thì vịt bà nói",
+            "text": "ông nói gà thì bà nói vịt"
+        },
+        {
+            "id": 648,
+            "label": "ai chứ tôi không biết",
+            "text": "ai chứ tôi thì tôi không biết"
+        },
+        {
+            "id": 649,
+            "label": "hai ngày đi bộ",
+            "text": "suốt hai ngày đi bộ"
+        },
+        {
+            "id": 650,
+            "label": "giếng này nước trong",
+            "text": "giếng này nước trong"
+        },
+        {
+            "id": 651,
+            "label": "thế khổ có",
+            "text": "thế có khổ không"
+        }
+    ],
+    "test": [
+        {
+            "id": 652,
+            "label": "anh ta tài có đức chẳng có",
+            "text": "anh ta có tài mà chẳng có đức"
+        },
+        {
+            "id": 653,
+            "label": "đầu trò khách tiếp trầu không có",
+            "text": "đầu trò tiếp khách trầu không có"
+        },
+        {
+            "id": 654,
+            "label": "quan biết nó chết",
+            "text": "quan biết thì nó chết"
+        },
+        {
+            "id": 655,
+            "label": "ếch nồi đất nấu",
+            "text": "nấu ếch thì phải nồi đất"
+        },
+        {
+            "id": 656,
+            "label": "gà ông nói vịt bà nói",
+            "text": "ông nói gà , bà nói vịt"
+        },
+        {
+            "id": 657,
+            "label": "nồi đồng ốc nấu",
+            "text": "nồi đồng nấu ốc"
+        },
+        {
+            "id": 658,
+            "label": "chiều hôm qua Ánh ra sông",
+            "text": "Ánh ra sông chiều hôm qua"
+        },
+        {
+            "id": 659,
+            "label": "may vá khó thì mới phải học",
+            "text": "may vá có khó thì mới phải học"
+        },
+        {
+            "id": 660,
+            "label": "trong ấm thì ngoài êm",
+            "text": "trong có ấm thì ngoài mới có êm"
+        },
+        {
+            "id": 661,
+            "label": "thế mà quả thị rơi xuống không lạ",
+            "text": "thế mà quả thị , lạ thay , vẫn không rơi xuống"
+        },
+        {
+            "id": 662,
+            "label": "nói anh ta năng lực chuyên môn tiện không",
+            "text": "năng lực chuyên môn của anh ta nói ra không tiện"
+        },
+        {
+            "id": 663,
+            "label": "cha nào mong con ngoan",
+            "text": "cha nào cũng mong con ngoan"
+        },
+        {
+            "id": 664,
+            "label": "Nam trúng cử",
+            "text": "Nam trúng cử"
+        },
+        {
+            "id": 665,
+            "label": "ăn thích",
+            "text": "thích ăn"
+        },
+        {
+            "id": 666,
+            "label": "mai đi tôi chuẩn bị không kịp",
+            "text": "mai đã đi thì tôi chuẩn bị không kịp"
+        },
+        {
+            "id": 667,
+            "label": "sáng tạo vấn đề quan trọng không sáng tạo không làm cách mạng được",
+            "text": "sáng tạo là vấn đề rất quan trọng ; không sáng tạo không làm cách mạng được"
+        },
+        {
+            "id": 668,
+            "label": "mời ngồi",
+            "text": "mời ngồi xuống"
+        },
+        {
+            "id": 669,
+            "label": "con chó bán phải đành",
+            "text": "có phải bán con lẫn chó cũng đành"
+        },
+        {
+            "id": 670,
+            "label": "chiều hôm qua Ánh sông ra",
+            "text": "chiều hôm qua thì Ánh ra sông"
+        },
+        {
+            "id": 671,
+            "label": "đi đâu đấy",
+            "text": "đi đâu đấy"
+        },
+        {
+            "id": 672,
+            "label": "đánh vỡ bình hoa đứa nào",
+            "text": "đứa nào đánh vỡ bình hoa"
+        },
+        {
+            "id": 673,
+            "label": "có người mười vắng mặt",
+            "text": "có mười người vắng mặt"
+        },
+        {
+            "id": 674,
+            "label": "tôi nhiệm vụ thi hành chiến sĩ nói",
+            "text": "tôi sẽ thi hành nhiệm vụ - người chiến sĩ nói"
+        },
+        {
+            "id": 675,
+            "label": "nói rõ ràng",
+            "text": "nói rõ ràng"
+        },
+        {
+            "id": 676,
+            "label": "tôi sáng ăn giờ 6",
+            "text": "tôi ăn sáng lúc 6 giờ"
+        },
+        {
+            "id": 677,
+            "label": "sáng chiều ông ấy làm việc liên tục",
+            "text": "suốt từ sáng đến chiều , ông ấy làm việc liên tục"
+        },
+        {
+            "id": 678,
+            "label": "hồ sen xa hồ cạn",
+            "text": "sen xa hồ sen khô hồ cạn"
+        },
+        {
+            "id": 679,
+            "label": "xin đồng chí đề nghị yên lặng",
+            "text": "xin đề nghị đồng chí yên lặng"
+        },
+        {
+            "id": 680,
+            "label": "lúc ấy có thể đấm đá nghe bình bịch",
+            "text": "lúc ấy có thể nghe thấy tiếng đấm đá nhau bình bịch"
+        },
+        {
+            "id": 681,
+            "label": "thì giờ vàng bạc",
+            "text": "thì giờ là vàng bạc"
+        },
+        {
+            "id": 682,
+            "label": "túi tiền còn",
+            "text": "còn tiền trong túi"
+        },
+        {
+            "id": 683,
+            "label": "nhằm quân thù bắn",
+            "text": "nhằm thẳng quân thù , bắn"
+        },
+        {
+            "id": 684,
+            "label": "hắn nhà đội Tảo đến",
+            "text": "hắn tức khắc đến nhà đội Tảo"
+        },
+        {
+            "id": 685,
+            "label": "cá quả khế nấu ngon",
+            "text": "cá quả mà nấu với khế thì rất ngon"
+        },
+        {
+            "id": 686,
+            "label": "bé gầy yếu",
+            "text": "cháu bé gầy yếu quá"
+        },
+        {
+            "id": 687,
+            "label": "con đòn muốn",
+            "text": "con muốn ăn đòn phải không"
+        },
+        {
+            "id": 688,
+            "label": "A Phủ nói xong Liên thân mật hỏi Tây A Phủ bắt hôm",
+            "text": "đợi A Phủ nói xong với vợ , anh Liên thân mật hỏi : Tây bắt A Phủ hôm"
+        },
+        {
+            "id": 689,
+            "label": "lần sau anh tôi để không yên",
+            "text": "lần sau còn thể nữa thì tôi không để cho anh yên đâu"
+        },
+        {
+            "id": 690,
+            "label": "em sống bởi vì em chiến thắng",
+            "text": "em đã sống , bởi vì em chiến thắng"
+        },
+        {
+            "id": 691,
+            "label": "người hoa đất",
+            "text": "người là hoa đất"
+        },
+        {
+            "id": 692,
+            "label": "cá cả lợn lớn",
+            "text": "cá , lợn lớn"
+        },
+        {
+            "id": 693,
+            "label": "tớ toán điểm 10 được",
+            "text": "tớ sẽ được điểm 10 về môn toán một cách chắc chắn"
+        },
+        {
+            "id": 694,
+            "label": "Nam trúng cử chắc",
+            "text": "Nam trúng cử là chắc"
+        },
+        {
+            "id": 695,
+            "label": "rắn nó sợ",
+            "text": "nó rất sợ rắn"
+        },
+        {
+            "id": 696,
+            "label": "anh ấy ông Ba giết",
+            "text": "anh ấy đã giết ông Ba"
+        },
+        {
+            "id": 697,
+            "label": "lẽ ra anh đến sớm hơn phải",
+            "text": "thì anh phải đến sớm hơn"
+        },
+        {
+            "id": 698,
+            "label": "cháu bé giường này nằm",
+            "text": "giường này cháu bé nằm"
+        },
+        {
+            "id": 699,
+            "label": "tham thâm thì",
+            "text": "tham thì thâm"
+        },
+        {
+            "id": 700,
+            "label": "mềm nắn rắn vuông",
+            "text": "mềm nắn , rắn buông"
+        },
+        {
+            "id": 701,
+            "label": "vĩ đại chiến sĩ trong gian khổ nghìn trùng cao vời vợi ý chí thù diệt nước cứu",
+            "text": "thật vĩ đại , người chiến sĩ trong gian khổ nghìn trùng càng cao vời vợi ý chí diệt thù cứu nước"
+        },
+        {
+            "id": 702,
+            "label": "ông cụ yếu lo",
+            "text": "ông cụ yếu đi thì đáng lo"
+        },
+        {
+            "id": 703,
+            "label": "khi mây đen nhiều thì lũ lụt có",
+            "text": "khi có nhiều mây đen thì sẽ có lũ lụt"
+        },
+        {
+            "id": 704,
+            "label": "gà trống gà mái đều gà sống",
+            "text": "gà trống , gà mái đều là gà sống cả"
+        },
+        {
+            "id": 705,
+            "label": "việc này khó lắm đấy",
+            "text": "việc này khó lắm đấy"
+        },
+        {
+            "id": 706,
+            "label": "anh làm thế sao nỡ",
+            "text": "sao anh nỡ làm thế"
+        },
+        {
+            "id": 707,
+            "label": "mẹ Hà Nội rồi",
+            "text": "mẹ đi Hà Nội rồi"
+        },
+        {
+            "id": 708,
+            "label": "tôi phỏng đoán",
+            "text": "là tôi phỏng đoán thế"
+        },
+        {
+            "id": 709,
+            "label": "đứa bảo có đứa bảo không nghe đứa nào",
+            "text": "đứa bảo có , đứa bảo không , biết nghe đứa nào bây giờ"
+        },
+        {
+            "id": 710,
+            "label": "làm việc này ai",
+            "text": "ai làm việc này"
+        },
+        {
+            "id": 711,
+            "label": "năm ngoái lạnh",
+            "text": "năm ngoái lạnh"
+        },
+        {
+            "id": 712,
+            "label": "tôi anh ấy ra sức chiều chuộng mà mình bi bạc đãi kêu",
+            "text": "tôi đã ra sức chiều chuộng anh ấy mà vẫn kêu là mình bi bạc đãi"
+        },
+        {
+            "id": 713,
+            "label": "làm không thì ăn không",
+            "text": "không làm thì không ăn"
+        },
+        {
+            "id": 714,
+            "label": "ở đây bơi thích",
+            "text": "ở đây bơi rất thích"
+        },
+        {
+            "id": 715,
+            "label": "giời có chồng con nhà nào",
+            "text": "là giời , có chồng con nhà nào không"
+        },
+        {
+            "id": 716,
+            "label": "dặn thế nào nó quên",
+            "text": "dặn nó cũng quên"
+        },
+        {
+            "id": 717,
+            "label": "vào hè Ánh sông ra",
+            "text": "vào một buổi chiều hè , Ánh ra sông"
+        },
+        {
+            "id": 718,
+            "label": "thuốc lá hút cấm",
+            "text": "cấm hút thuốc lá"
+        },
+        {
+            "id": 719,
+            "label": "mai đi muộn thì",
+            "text": "mai đi thì muộn"
+        },
+        {
+            "id": 720,
+            "label": "dù nói ngã nói nghiêng ta như kiềng ba chân",
+            "text": "dù ai nói ngã nói nghiêng thì ta vẫn vững như kiềng ba chân"
+        },
+        {
+            "id": 721,
+            "label": "đội ta thua mất",
+            "text": "đội ta e thua mất"
+        },
+        {
+            "id": 722,
+            "label": "làm được chứ sao",
+            "text": "làm cũng được chứ sao"
+        },
+        {
+            "id": 723,
+            "label": "vàng gió đỏ mưa",
+            "text": "vàng gió , đỏ mưa"
+        },
+        {
+            "id": 724,
+            "label": "anh kẹo chanh thích nhất",
+            "text": "anh thích nhất kẹo chanh"
+        }
+    ]
+}
