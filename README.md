@@ -16,3 +16,5 @@
 * [Le Cong Thuong](thuonglc@vnu.edu.vn)
 * [Tuan Anh](tuananhhhm@gmail.com)
 * [Le Thu Phuong](lethuphuong01032004@gmail.com)
+* [Minh Hang](dangminhhang261102.dn@gmail.com)
+* [Son Tung](hasontung1772003@gmail.com)
