@@ -46,7 +46,7 @@ class Word2Sigml:
 
 
 if __name__ == '__main__':
-    word2_sigml = Word2Sigml("/home/love_you/Documents/joyness/sign-language-prototype/assets/hamnosys2sigml")
+    word2_sigml = Word2Sigml(xml_dir="assets/hamnosys2sigml")
     sent = ['H', 'proof', 'phòng_thư_viện', 'bay_gio', 'be_giang']
     res = word2_sigml.convert_words_to_sigml(sent)
     with open('test.xml', 'w') as f:
