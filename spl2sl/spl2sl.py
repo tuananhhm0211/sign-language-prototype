@@ -13,17 +13,17 @@ class Slp2Sl:
 
     def spl2sl(self, sent):
         en_sentence = self.google_translate_obj.translate_text(sent, "vi", "en")
-        print("Eng translate: ", en_sentence)
-        shorten_sent = self.vertex_ai_model.shorten_sent(en_sentence)
-        print("Shorten: ", shorten_sent)
+        # print("Eng translate: ", en_sentence)
+        shorten_sent = self.vertex_ai_model.simplify_sent(en_sentence)
+        # print("Shorten: ", shorten_sent)
         vi_sent = self.google_translate_obj.translate_text(shorten_sent, "en", "vi")
-        print("Viet short: ", vi_sent)
+        # print("Viet short: ", vi_sent)
         syn_sent = self.synonym_sent_obj.get_synonym_sent(vi_sent, 0.5)
-        print("Syn_sent: ", syn_sent)
+        # print("Syn_sent: ", syn_sent)
         sl_sent = self.grammar_translate_obj.translate_sent(syn_sent)
-        print("Gram_sent: ", sl_sent)
+        # print("Gram_sent: ", sl_sent)
         sl_sent = self.synonym_sent_obj.get_synonym_sent(sl_sent, 0.5)
-        print("Recorrect: ", sl_sent)
+        # print("Recorrect: ", sl_sent)
         return sl_sent
 
     def post_process(self, sl_sent):
