@@ -8,7 +8,7 @@ class Slp2Sl:
     def __init__(self, vncore_path, vocab_path, vocab_embedding_path,  project_id='test-ai-vision-356213'):
         self.vertex_ai_model = VertexAIModel(project_id)
         self.google_translate_obj = GoogleTranslate(project_id)
-        self.grammar_translate_obj = GrammarTranslate()
+        #self.grammar_translate_obj = GrammarTranslate()
         self.synonym_sent_obj = SynonymSent(vncore_path, vocab_path, vocab_embedding_path)
 
     def spl2sl(self, sent):
@@ -20,9 +20,9 @@ class Slp2Sl:
         # print("Viet short: ", vi_sent)
         syn_sent = self.synonym_sent_obj.get_synonym_sent(vi_sent, 0.5)
         # print("Syn_sent: ", syn_sent)
-        sl_sent = self.grammar_translate_obj.translate_sent(syn_sent)
+        #sl_sent = self.grammar_translate_obj.translate_sent(syn_sent)
         # print("Gram_sent: ", sl_sent)
-        sl_sent = self.synonym_sent_obj.get_synonym_sent(sl_sent, 0.5)
+        sl_sent = self.synonym_sent_obj.get_synonym_sent(syn_sent, 0.5)
         # print("Recorrect: ", sl_sent)
         return sl_sent
 

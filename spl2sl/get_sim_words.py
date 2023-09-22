@@ -1,6 +1,7 @@
 import numpy as np
 import py_vncorenlp
 import json
+# import os
 import fasttext
 from huggingface_hub import hf_hub_download
 from sklearn.metrics.pairwise import cosine_similarity
@@ -18,7 +19,7 @@ class SynonymSent:
         self.remove_pos_list = ['I', 'L', 'T', 'X']
 
     def _read_json(self, vocab_path):
-        with open(vocab_path, 'r') as f:
+        with open(vocab_path, 'r', encoding="utf-8") as f:
             content = json.load(f)
         return content
 

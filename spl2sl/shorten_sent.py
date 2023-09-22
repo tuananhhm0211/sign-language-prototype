@@ -1,6 +1,6 @@
+from google.cloud import aiplatform
 from vertexai.preview.language_models import TextGenerationModel
 from spl2sl.translate import GoogleTranslate
-from google.cloud import aiplatform
 import json
 import openai
 import re
@@ -108,7 +108,7 @@ class VertexAIModel:
 
     def simplify_sent(self, sentence):
         en_sentence = self.google_translate_obj.translate_text(sentence, "vi", "en")
-        sents = goog_model.simplify_syntax(en_sentence)
+        sents = self.simplify_syntax(en_sentence)
         sent = ". ".join(sents)
         vi_sent = self.google_translate_obj.translate_text(sent, "en", "vi")
         sim_sent = self._simplify_sent(vi_sent)
