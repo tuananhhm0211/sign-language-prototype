@@ -5,7 +5,6 @@
 # https://docs.docker.com/engine/reference/builder/
 
 ARG PYTHON_VERSION=3.8.5
-# FROM python:${PYTHON_VERSION}-slim as base
 FROM python:3.8-slim
 COPY --from=openjdk:8-jdk-slim /usr/local/openjdk-8 /usr/local/openjdk-8
 
