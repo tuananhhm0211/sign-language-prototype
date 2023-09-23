@@ -54,7 +54,7 @@ ENV PATH="/root/.local/bin:$PATH"
 COPY key.json /app/key.json
 
 ENV GOOGLE_APPLICATION_CREDENTIALS=/app/key.json
-ENV OPENAI_API_KEY=${{ OPENAI_API_KEY }}
+ENV OPENAI_API_KEY=${{ secret.OPENAI_API_KEY }}
 
 WORKDIR /app
 
