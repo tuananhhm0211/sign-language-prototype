@@ -34,5 +34,5 @@ jobs:
         run: docker pull tuananhhmx4/clockbox:latest
       -
         name: Run Docker Container
-        run: docker run ***/clockbox:latest
+        run: docker run ${{ secrets.DOCKERHUB_USERNAME }}/clockbox:latest
         # run: docker images
