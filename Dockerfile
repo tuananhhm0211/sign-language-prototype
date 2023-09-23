@@ -52,9 +52,9 @@ ENV PATH="/root/.local/bin:$PATH"
 
 # COPY application_default_credentials.json /root/.config/gcloud/
 COPY key.json /app/key.json
-
+ARG OPENAI_API_KEY
 ENV GOOGLE_APPLICATION_CREDENTIALS=/app/key.json
-ENV OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}
+ENV OPENAI_API_KEY=$OPENAI_API_KEY
 
 WORKDIR /app
 
