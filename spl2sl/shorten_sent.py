@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 # Set up the OpenAI API client
-openai.api_key = os.environ("OPENAI_API_KEY")
+openai.api_key = os.environenviron.get("OPENAI_API_KEY")
 
 
 class VertexAIModel:
