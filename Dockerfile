@@ -53,13 +53,9 @@ ENV PATH="/root/.local/bin:$PATH"
 
 # COPY application_default_credentials.json /root/.config/gcloud/
 COPY key.json /app/key.json
-#RUN gcloud auth activate-service-account --key-file=/app/key.json
-# Create a new stage from the base python image
 
 ENV GOOGLE_APPLICATION_CREDENTIALS=/app/key.json
-#RUN export GOOGLE_APPLICATION_CREDENTIALS=/key.json
-
-# FROM base as example-app
+ENV OPENAI_API_KEY=$OPENAI_API_KEY
 
 WORKDIR /app
 
@@ -76,10 +72,6 @@ WORKDIR /app
 #     appuser
 
 RUN apt-get update && apt-get install -y build-essential
-# Download dependencies as a separate step to take advantage of Docker's caching.
-# Leverage a cache mount to /root/.cache/pip to speed up subsequent builds.
-# Leverage a bind mount to requirements.txt to avoid having to copy them into
-# into this layer.
 # Copy Dependencies
 COPY poetry.lock pyproject.toml ./
 
