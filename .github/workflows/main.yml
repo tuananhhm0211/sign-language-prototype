@@ -35,4 +35,4 @@ jobs:
       -
         name: Run Docker Container
         # run: docker run tuananhmx4/clockbox:latest
-        run: docker image
+        run: docker images
