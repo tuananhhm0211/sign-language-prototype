@@ -54,7 +54,9 @@ ENV PATH="/root/.local/bin:$PATH"
 COPY key.json /app/key.json
 ARG OPENAI_API_KEY
 ENV GOOGLE_APPLICATION_CREDENTIALS=/app/key.json
-ENV OPENAI_API_KEY=$OPENAI_API_KEY
+RUN --mount=type=secret,id=OPENAI_API_KEY \
+   export OPENAI_API_KEY=$(cat /run/secrets/OPENAI_API_KEY) && \
+   yarn gen
 
 WORKDIR /app
 
