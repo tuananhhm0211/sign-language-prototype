@@ -30,7 +30,7 @@ jobs:
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/clockbox:latest
           secrets: |
-              "OPENAI_API_KEY"=${{ secrets.OPENAI_API_KEY }}
+              "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}"
       -
         name: Pull Docker Image
         run: docker pull tuananhhmx4/clockbox:latest
