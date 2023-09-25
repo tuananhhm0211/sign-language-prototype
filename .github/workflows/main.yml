@@ -9,10 +9,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      -  
-        name: My first action
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       -
         name: Checkout
         uses: actions/checkout@v4
@@ -40,5 +36,7 @@ jobs:
         run: docker pull tuananhhmx4/clockbox:latest
       -
         name: Run Docker Container
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: docker run ${{ secrets.DOCKERHUB_USERNAME }}/clockbox:latest
         # run: docker images
