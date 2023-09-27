@@ -49,7 +49,7 @@ RUN poetry install --no-root
 
 # Copy the source code into the container.
 COPY . .
-ENV GOOGLE_APPLICATION_CREDENTIALS=/app/*.json
+ENV GOOGLE_APPLICATION_CREDENTIALS=/app/sign-language-prototype/*.json
 # Expose the port that the application listens on.
 EXPOSE 8000
 
