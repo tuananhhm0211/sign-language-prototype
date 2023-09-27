@@ -30,8 +30,7 @@ RUN pip install poetry==${POETRY_VERSION}
 ENV PATH="/root/.local/bin:$PATH"
 
 
-COPY /home/runner/work/sign-language-prototype/sign-language-prototype/gha-creds-ff0f93a0a81dd6b5.json /app/key.json
-ENV GOOGLE_APPLICATION_CREDENTIALS=/app/key.json
+# ENV GOOGLE_APPLICATION_CREDENTIALS=/app/gha-creds-ff0f93a0a81dd6b5.json
 
 
 WORKDIR /app
@@ -50,7 +49,7 @@ RUN poetry install --no-root
 
 # Copy the source code into the container.
 COPY . .
-
+ENV GOOGLE_APPLICATION_CREDENTIALS=/app/gha-creds-ff0f93a0a81dd6b5.json
 # Expose the port that the application listens on.
 EXPOSE 8000
 
