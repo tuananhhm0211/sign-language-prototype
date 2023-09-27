@@ -30,6 +30,8 @@ jobs:
           touch .env
           echo OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }} >> .env
           cat .env
+      - name: Register gcloud as a Docker credential helper
+        run: gcloud auth configure-docker
       -
         name: Set up Docker Buildx
         env:
