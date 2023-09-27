@@ -29,7 +29,7 @@ RUN pip install openai
 RUN pip install poetry==${POETRY_VERSION}
 ENV PATH="/root/.local/bin:$PATH"
 
-COPY /home/runner/work/sign-language-prototype/sign-language-prototype/*.json /app/sign-language-prototype/key.json
+COPY ./*.json /app/sign-language-prototype/key.json
 ENV GOOGLE_APPLICATION_CREDENTIALS=/app/sign-language-prototype/key.json
 
 
