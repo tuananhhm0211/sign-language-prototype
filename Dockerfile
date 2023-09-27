@@ -30,7 +30,7 @@ RUN pip install poetry==${POETRY_VERSION}
 ENV PATH="/root/.local/bin:$PATH"
 
 
-COPY /home/runner/.docker/config.json /app/key.json
+COPY /home/runner/work/sign-language-prototype/sign-language-prototype/gha-creds-ff0f93a0a81dd6b5.json /app/key.json
 ENV GOOGLE_APPLICATION_CREDENTIALS=/app/key.json
 
 
