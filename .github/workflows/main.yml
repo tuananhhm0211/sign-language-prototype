@@ -18,6 +18,11 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
+      - name: 'Create env file'
+        run: |
+          touch .env
+          echo OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }} >> .env
+          cat .env
       -
         name: Set up Docker Buildx
         env:
@@ -25,16 +30,12 @@ jobs:
         uses: docker/setup-buildx-action@v3
       -
         name: Build and push
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         uses: docker/build-push-action@v5
         with:
           context: .
           file: ./Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/clockbox:latest
-          secrets: |
-              "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}"
       -
         name: Pull Docker Image
         run: docker pull tuananhhmx4/clockbox:latest
